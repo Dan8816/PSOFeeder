@@ -1,0 +1,34 @@
+TGIS_NAME,DESKV,LINE_TYPE,VINTAGE_DATE,LENGTH,CPR_NUM,OTHER_NUM,OPCO_NAME,EAS_NUMBER,STATUS,OWNING_COMPANY,OBJECTID
+Ramona Tap,69 kV,Tap,12/31/82,480.09,66-147,66-147,Public Service of Oklahoma,TLN114:0147,In service,AEP - PSO,288686
+Frederick JCT - Vernon Main Street ,69 kV,Line,12/31/35,111445.83,66-624,66-624,Public Service of Oklahoma,TLN114:0624,In service,AEP - PSO,288958
+Davidson Tap,69 kV,Tap,12/31/63,21313.53,66-624A,66-624A,Public Service of Oklahoma,TLN114:0624A,In service,AEP - PSO,288974
+Comanche Power Station - Walters Jct,69 kV,Line,12/31/75,66655.09,66-629,66-629,Public Service of Oklahoma,TLN114:0629,In service,AEP - PSO,289726
+OMPA Walters City Tap,69 kV,Tap,12/31/75,8614.98,66-629C,66-629C,Public Service of Oklahoma,TLN114:0629C,In service,AEP - PSO,289742
+Lawton Disposal Plant Tap,69 kV,Tap,12/31/75,20346.68,66-629A,66-629A,Public Service of Oklahoma,TLN114:0629A,In service,AEP - PSO,289774
+Lawton Gore 69 kV,69 kV,Tap,12/31/88,3194.09,66-619B,66-619,Public Service of Oklahoma,TLN114:0607A,In service,AEP - PSO,293742
+Duncan Relift Tap,69 kV,Tap,12/31/52,328,99999,66-610B,Non AEP,TLN114:0610B,In service,WAURIKA  CONS DIST,293774
+Cornville - Cyril,69 kV,Line,13/31/1946,92936.05,66-613,66-613,Public Service of Oklahoma,TLN114:0613,In service,AEP - PSO,293806
+Fort Sill - Porter Hill,69 kV,Line,13/31/1960,53577.13,66-617,66-617,Public Service of Oklahoma,TLN114:0617,In service,AEP - PSO,293822
+Waurika Lake Tap,69 kV,Tap,12/31/78,20376.83,66-630C,66-630C,Non AEP,TLN114:0630C,In service,WAURIKA  CONS DIST,293886
+Russell (WFEC) - Duke,69 kV,Line,12/31/72,13144.98,66-627,66-627,Public Service of Oklahoma,TLN114:0627,In service,AEP - PSO,295374
+Foss Water Plant Tap,69 kV,Tap,12/31/74,66830.4,66-626A,66-626A,Public Service of Oklahoma,TLN114:0626A,In service,AEP - PSO,295518
+Cyril - Elgin JCT,69 kV,Line,12/31/64,48368.43,66-625,66-625,Public Service of Oklahoma,TLN114:0625,In service,AEP - PSO,295598
+Elgin Jct - Porter Hill,69 kV,Line,13/31/1949,35004.2,66-618,66-618,Public Service of Oklahoma,TLN114:0618,In service,AEP - PSO,295614
+Elk City - Hammon Junction,69 kV,Line,12/31/83,91163.12,66-631,66-631,Public Service of Oklahoma,TLN114:0631,In service,AEP - PSO,295710
+Clinton Junction - Clinton,69 kV,Line,12/31/68,28797.61,66-626,66-626,Public Service of Oklahoma,TLN114:0626,In service,AEP - PSO,295726
+Clinton - Weatherford,69 kV,Line,12/31/35,78991.11,66-622,66-622,Public Service of Oklahoma,TLN114:0622,In service,AEP - PSO,295742
+Hobart Junction - Hobart City,69 kV,Line,12/31/96,10515.93,66-611,66-611,Public Service of Oklahoma,TLN114:0611,In service,AEP - PSO,295774
+Lawton Eastside - Lawton Wolf Creek,69 kV,Line,12/31/39,24385.38,66-619,66-619,Public Service of Oklahoma,TLN114:0619,In service,AEP - PSO,295870
+Lawton Eastide - Lawton Wolf Creek ,69 kV,Tap,1/12/39,24385.98,66-619C,66-619,NA,TLN114:0619,Consolidated,AEP - PSO,295870
+Comanche - Lawton Eastside,138 kV,Line,12/31/74,29816,81-515,66-628,Public Service of Oklahoma,TLN114:00515,In service,AEP - PSO,296958
+Binger Tap,69 kV,Tap,12/31/34,48414.05,66-612A,66-612,Public Service of Oklahoma,TLN114:0612A,In service,AEP - PSO,349316
+SW Power Station - Weatherford City,69 kV,Line,12/31/34,31908.37,66-612,66-612,Public Service of Oklahoma,TLN114:0612,In service,AEP - PSO,358277
+Cornville - Lindsay Water Flood,138 kV,Line,11/29/12,173863.2,81605,66-609C,Oklahoma TransCo,TLN386:81605,In service,AEP - Oklahoma TransCo,477681
+Comanche (WFEC) - Waurika,138 kV,Line,8/23/17,74624.2,66-630,66-630,Oklahoma TransCo,TLN386:81592,In service,AEP - Oklahoma TransCo,646961
+Duncan - Comanche (WFEC),138 kV,Line,8/31/16,50701.95,66-610,51597,Oklahoma TransCo,TLN386:81597,In service,AEP - Oklahoma TransCo,652402
+Texas Comanche Pump Tap,138 kV,Tap,7/6/17,29334.07,66-630A,81675,Oklahoma TransCo,TLN386:81675,In service,AEP - Oklahoma TransCo,654323
+Thomas City Tap,138 kV,Tap,4/12/17,95870.78,66-622B,66-622B,Oklahoma TransCo,TLN386:66622,In service,AEP - Oklahoma TransCo,666162
+TOSCO Refinery Tap,138 kV,Tap,10/31/16,6617.89,66-610A,66-610A,Oklahoma TransCo,TLN386:66610,In service,AEP - Oklahoma TransCo,678969
+Walmart MDC - Ramona,69 kV,Line,12/31/00,15240,66-147,66-147,Public Service of Oklahoma,TLN114:99999,In service,AEP - PSO,686355
+Cornville - Lindsay Water Flood,69 kV,Tap,12/31/59,695,66-609,66-609A,NA,NA,Consolidated,AEP - Oklahoma TransCo,999999
+Cornville - Lindsay Water Flood,69 kV,Tap,12/31/59,888,66-609,66-609B,NA,NA,Consolidated,AEP - Oklahoma TransCo,999999

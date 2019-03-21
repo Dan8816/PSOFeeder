@@ -1,0 +1,330 @@
+NUMBER,NAME,DESKV,TYPE,INSTALL_DATE,FEET,MILES,OPCO,EAS_NUMBER,STATUS,OWNER,OBJECTID
+81-826,Bartlesville SE - Dearing (KG&E),138 kV,Line,1962-12-31,119131,22.563,Oklahoma Trans Co,TLN386:00826,In service,Oklahoma Trans Co,287710
+66-106B,Broken Arrow Water Plant Tap,138 kV,Tap,2012-12-31,16422,3.110,Oklahoma Trans Co,TLN386:81598,In service,Oklahoma Trans Co,288334
+66-117,Atoka - McAlester  ,138 kV,Line,2017-04-25,160890,30.472,Oklahoma Trans Co,TLN386:81595,In service,Oklahoma Trans Co,288494
+81-584,McAlester City Extension,138 kV,Extension,2012-02-29,29595,5.605,Oklahoma Trans Co,TLN386:81584,In service,Oklahoma Trans Co,288766
+81-818,Sand Springs Sub - OG&E Interconnect,138 kV,Line,1963-12-31,47507,8.998,Oklahoma Trans Co,TLN386:81818,In service,Oklahoma Trans Co,289326
+81-818A,Prattville Tap,138 kV,Tap,2016-10-02,1691,0.320,Oklahoma Trans Co,TLN386:0818A,In service,Oklahoma Trans Co,289342
+81-826A,Coffeyville Tap - City of Coffeyville B,138 kV,Tap,1974-12-31,31626,5.990,Oklahoma Trans Co,TLN386:0826A,In service,Oklahoma Trans Co,433847
+81-586,141st & Pine Extension,138 kV,Extension,2012-12-31,4096,0.776,Oklahoma Trans Co,TLN386:81586,In service,Oklahoma Trans Co,467137
+81-585,Canadian River - McAlester City,138 kV,Line,2012-09-30,86559,16.394,Oklahoma Trans Co,TLN386:81585,In service,Oklahoma Trans Co,475446
+66-121C,Red Oak - Howe - Midland (Transco),138 kV,Line,2010-12-31,196786,37.270,Oklahoma Trans Co,TLN386:0121,In service,Oklahoma Trans Co,476721
+66-609A,Cornville - Lindsay Water Flood,69 kV,Tap,1959-12-31,695,0.132,Oklahoma Trans Co,TLN386:81605,Consolidated,Oklahoma Trans Co,999999
+66-609B,Cornville - Lindsay Water Flood,69 kV,Tap,1959-12-31,888,0.168,Oklahoma Trans Co,TLN386:81605,Consolidated,Oklahoma Trans Co,999999
+81605,Cornville - Lindsay Water Flood,138 kV,Line,2011-12-31,173863,32.929,Oklahoma Trans Co,TLN386:81605,In service,Oklahoma Trans Co,477681
+81-601,Tulsa North Bus #2,138 kV,Bus tie,2013-07-31,596,0.113,Oklahoma Trans Co,TLN386:81601,In service,Oklahoma Trans Co,478332
+81-589,Tipton Tap,138 kV,Tap,2012-12-31,50030,9.475,Oklahoma Trans Co,TLN386:81589,In service,Oklahoma Trans Co,479282
+81-588,Frederick Jct - Snyder,138 kV,Line,2012-12-31,97966,18.554,Oklahoma Trans Co,TLN386:81588,In service,Oklahoma Trans Co,479601
+81-604,Stonewall - Wapanucka,138 kV,Line,2013-05-12,33384,6.323,Oklahoma Trans Co,TLN386:81604,In service,Oklahoma Trans Co,479603
+81-602,Red Rock - Darlington,138 kV,Line,2013-06-29,40126,7.600,Oklahoma Trans Co,TLN386:81602,In service,Oklahoma Trans Co,480241
+81-590,Ellis Extension,138 kV,Extension,2013-03-30,3891,0.737,Oklahoma Trans Co,TLN386:81590,In service,Oklahoma Trans Co,480882
+81-834C,Lone Oak - Weleetka,138 kV,Line,2011-12-31,242928,46.009,Oklahoma Trans Co,TLN386:0834,In service,Oklahoma Trans Co,485362
+81587,Chouteau - Tulsa Southeast,138 kV,Line,2013-08-31,156489,29.638,Oklahoma Trans Co,TLN386:81587,In service,Oklahoma Trans Co,502646
+81591,Maud (OGE) - Weleetka,138 kV,Line,2012-12-31,259897,49.223,Oklahoma Trans Co,TLN386:81591,In service,Oklahoma Trans Co,520577
+81823B,Lehigh Extension,138 kV,Extension,2015-03-11,682,0.129,Oklahoma Trans Co,TLN386:0823B,In service,Oklahoma Trans Co,532722
+81612,Martha Extension,138 kV,Extension,2015-05-31,321,0.061,Oklahoma Trans Co,TLN386:81612,In service,Oklahoma Trans Co,533361
+81-608,Grady Extension,138 kV,Extension,2014-08-10,21656,4.102,Oklahoma Trans Co,TLN386:81608,In service,Oklahoma Trans Co,572129
+81-607,Grady - Rush Springs,138 kV,Line,2015-04-27,30189,5.718,Oklahoma Trans Co,TLN386:81607,In service,Oklahoma Trans Co,575922
+81-621,Grady - Choctaw,138 kV,Line,2016-08-22,21862,4.141,Oklahoma Trans Co,TLN386:81621,In service,Oklahoma Trans Co,599921
+81-516B,Hugo Tap,138 kV,Tap,1973-12-31,110941,21.011,Oklahoma Trans Co,TLN386:81596,In service,Oklahoma Trans Co,601522
+81-603,Boggy Creek - Wapanucka,138 kV,Line,2014-06-17,30636,5.802,Oklahoma Trans Co,TLN386:81603,In service,Oklahoma Trans Co,607633
+81-620,Darlington Road - Roman Nose,138 kV,Line,2016-10-30,81921,15.515,Oklahoma Trans Co,TLN386:81620,In service,Oklahoma Trans Co,612401
+835,Broken Bow Dam (SWPA) - Lone Oak,138 kV,Line,2017-05-07,413312,78.279,Oklahoma Trans Co,TLN386:0835,In service,Oklahoma Trans Co,614008
+90-928,Valliant - NW Texarkana,345 kV,Line,2014-09-03,184172,34.881,Oklahoma Trans Co,TLN386:90928,In service,Oklahoma Trans Co,617238
+81-599,Coweta Junction Tap,138 kV,Tap,2014-12-31,28884,5.470,Oklahoma Trans Co,TLN386:81599,In service,Oklahoma Trans Co,617857
+81-613,Pernell - OGE Prairie Point,138 kV,Line,2017-12-03,27269,5.165,Oklahoma Trans Co,TLN386:81613,In service,Oklahoma Trans Co,622321
+81-593,Cornville - Maud (OGE),138 kV,Line,2016-08-12,318588,60.339,Oklahoma Trans Co,TLN386:81593,In service,Oklahoma Trans Co,646641
+66-630,Comanche (WFEC) - Waurika,138 kV,Line,2017-08-23,74624,14.133,Oklahoma Trans Co,TLN386:81592,In service,Oklahoma Trans Co,646961
+81-597,Duncan - Comanche (WFEC),138 kV,Line,2016-08-31,50702,9.603,Oklahoma Trans Co,TLN386:81597,In service,Oklahoma Trans Co,652402
+81-819,Hobart Junction - Southwestern Power Station,138 kV,Line,2016-11-13,87863,16.641,Oklahoma Trans Co,TLN386:81819,In service,Oklahoma Trans Co,653041
+81-606,Talawanda - McAlester Industrial,138 kV,Line,2015-07-26,46601,8.826,Oklahoma Trans Co,TLN386:81606,In service,Oklahoma Trans Co,654321
+81-675,Texas Comanche Pump Tap,138 kV,Tap,2017-07-06,29334,5.556,Oklahoma Trans Co,TLN386:81675,In service,Oklahoma Trans Co,654323
+90-929,Chisholm - Gracemont (OG&E),345 kV,Line,2018-07-24,317829,60.195,Oklahoma Trans Co,TLN386:90929,In service,Oklahoma Trans Co,663921
+85-100,Chisholm Extension,230 kV,Extension,2016-10-31,3713,0.703,Oklahoma Trans Co,TLN386:81609,In service,Oklahoma Trans Co,665537
+66-622,Thomas City Tap,138 kV,Tap,2016-09-06,95871,18.157,Oklahoma Trans Co,TLN386:66622,In service,Oklahoma Trans Co,666162
+66-610,TOSCO Refinery Tap,138 kV,Tap,2016-10-31,6618,1.253,Oklahoma Trans Co,TLN386:66610,In service,Oklahoma Trans Co,678969
+81-545A,Hawthorne Tap,138 kV,Tap,1975-12-31,916,0.173,Public Service of Oklahoma,TLN114:0545A,In service, PSO,271102
+81-528,Tulsa North 138 - Wekiwa,138 kV,Line,1978-12-31,104369,19.767,Public Service of Oklahoma,TLN114:0528,In service, PSO,287326
+81-806,Sand Springs - Wildhorse,138 kV,Line,1954-12-31,119189,22.574,Public Service of Oklahoma,TLN114:0806,In service, PSO,287342
+81-806A,Highway 20 Tap,138 kV,Tap,2000-12-31,32475,6.151,Public Service of Oklahoma,TLN114:0806A,In service, PSO,287374
+81-806B,Hominy Tap,138 kV,Tap,1976-12-31,34657,6.564,Public Service of Oklahoma,TLN114:0806B,In service, PSO,287390
+81-821,Cornville - Duncan,138 kV,Line,1948-12-31,220268,41.717,Public Service of Oklahoma,TLN114:0821,In service, PSO,287406
+90-907,Riverside Power Station - Redbud (OG&E),345 kV,Line,1975-12-31,278683,52.781,Public Service of Oklahoma,TLN114:0907,In service, PSO,287422
+90-916,Lawton Eastside 345 - Sunnyside (OG&E),345 kV,Line,1981-12-31,376462,71.300,Public Service of Oklahoma,TLN114:0916,In service, PSO,287438
+90-915,Pittsburg 345 - Sunnyside(OG&E),345 kV,Line,1979-12-31,464005,87.880,Public Service of Oklahoma,TLN114:0915,In service, PSO,287454
+81-843,Barnsdall Tap - Tulsa North 138,138 kV,Line,1966-12-31,134531,25.479,Public Service of Oklahoma,TLN114:0843,In service, PSO,287486
+81-837,Okmulgee City - Riverside Power Station,138 kV,Line,1978-12-31,138078,26.151,Public Service of Oklahoma,TLN114:0837,In service, PSO,287502
+81-805,Okmulgee - Weleetka  ,138 kV,Line,1954-12-31,123987,23.482,Public Service of Oklahoma,TLN114:0805,In service, PSO,287518
+90-909,Northeast Station - Tulsa North 345,345 kV,Line,1968-12-31,119893,22.707,Public Service of Oklahoma,TLN114:0909,In service, PSO,287534
+81-549,Bartlesville Southeast - Nowata,138 kV,Line,1999-12-31,76714,14.529,Public Service of Oklahoma,TLN114:0549,In service, PSO,287550
+81-815,Northeastern Power Station - Nowata,138 kV,Line,1978-12-31,106494,20.169,Public Service of Oklahoma,TLN114:0815,In service, PSO,287566
+81-826A,Coffeyville Tap - City of Coffeyville B,138 kV,Tap,1974-12-31,14480,2.743,Public Service of Oklahoma,TLN114:0826A,In service, PSO,287582
+81-516,Idabel - Valliant 345,138 kV,Line,1973-12-31,94108,17.823,Public Service of Oklahoma,TLN114:0516,In service, PSO,287646
+90-905,Lydia - Valliant (PSO),345 kV,Line,1968-12-31,109507,20.740,Public Service of Oklahoma,TLN114:0905,In service, PSO,287662
+81-816,Bartlesville Southeast - Northeastern Station ,138 kV,Line,1999-12-31,128384,24.315,Public Service of Oklahoma,TLN114:0816,In service, PSO,287694
+90-908,Delaware - Northeastern Station 345,345 kV,Line,1972-12-31,157870,29.900,Public Service of Oklahoma,TLN114:0908,In service, PSO,287726
+90-922,Delaware 345 - Neosho (KG&E),345 kV,Line,1972-12-31,130065,24.634,Public Service of Oklahoma,TLN114:0922,In service, PSO,287742
+81-569,SWPA Interconnect Tap,138 kV,Tap,1949-12-31,13913,2.635,Public Service of Oklahoma,TLN114:0802A,In service, PSO,287774
+90-917,Pittsburg 345 - Seminole(OG&E),345 kV,Line,1968-12-31,58032,10.991,Public Service of Oklahoma,TLN114:0917,In service, PSO,287806
+81-564,Delaware 345 - City of Coffeyville B,138 kV,Line,1999-12-31,82238,15.575,Public Service of Oklahoma,TLN114:0564,In service, PSO,287822
+90-901,Oneta - Clarksville 345(SWEPCO),345 kV,Line,1964-12-31,85753,16.241,Public Service of Oklahoma,TLN114:0901,In service, PSO,287838
+90-902,Oneta - Riverside Power Station,345 kV,Line,1978-12-31,96578,18.291,Public Service of Oklahoma,TLN114:0902,In service, PSO,287854
+81-558,Mound Road - Shidler,138 kV,Line,1993-12-31,217772,41.245,Public Service of Oklahoma,TLN114:0558,In service, PSO,287870
+81-827A,Comanche Tap,138 kV,Tap,1960-12-31,3736,0.708,Public Service of Oklahoma,TLN114:0840A,In service, PSO,287902
+66-113,Bartlesville Comanche - Blake,69 kV,Line,1957-12-31,91553,17.340,Public Service of Oklahoma,TLN114:0113,In service, PSO,287918
+66-113A,Copan South Tap,69 kV,Tap,1953-12-31,223,0.042,Public Service of Oklahoma,TLN114:0113A,In service, PSO,287934
+81-827,Bartlesville Southeast - Shidler,138 kV,Line,1960-12-31,35966,6.812,Public Service of Oklahoma,TLN114:0827,In service, PSO,287950
+81-557,Vinita Junction - Hockerville (EDE),138 kV,Line,1991-12-31,192004,36.364,Public Service of Oklahoma,TLN114:0557,In service, PSO,287966
+81-545,Northeastern - Vinita JCT,138 kV,Line,1989-12-31,252565,47.834,Public Service of Oklahoma,TLN114:0545,In service, PSO,287982
+90-906,Riverside Power Station - Wekiwa,345 kV,Line,1975-12-31,114238,21.636,Public Service of Oklahoma,TLN114:0906,In service, PSO,288014
+81-567,Henryetta - Weleetka,138 kV,Line,2002-12-31,70432,13.339,Public Service of Oklahoma,TLN114:00567,In service, PSO,288030
+66-138,Weleetka - Okemah,69 kV,Line,1962-12-31,63447,12.017,Public Service of Oklahoma,TLN114:0138,In service, PSO,288046
+66-103,Weleetka Power Station - Fixico (OG&E),69 kV,Line,1934-12-31,58096,11.003,Public Service of Oklahoma,TLN114:0103,In service, PSO,288126
+81-555,Grove - Noel (EDE),161 kV,Line,1991-12-31,40262,7.625,Public Service of Oklahoma,TLN114:0555,In service, PSO,288142
+81-554,Grove - Pryor Junction ,138 kV,Line,1992-12-31,253778,48.064,Public Service of Oklahoma,TLN114:0554,In service, PSO,288158
+81-554A,Jay Tap,138 kV,Tap,1994-12-31,836,0.158,Public Service of Oklahoma,TLN114:0554A,In service, PSO,288174
+66-142,Pryor Junction - Vinita,69 kV,Line,1963-12-31,135612,25.684,Public Service of Oklahoma,TLN114:0142,In service, PSO,288190
+142A,Adair Tap,69 kV,Tap,1963-12-31,156,0.029,Public Service of Oklahoma,TLN114:0142A,In service, PSO,288206
+81-824,Pryor JCT - Markham Ferry (GRDA),138 kV,Line,1962-12-31,54282,10.281,Public Service of Oklahoma,TLN114:0824,In service, PSO,288222
+81-546,Pryor Junction - Maid,138 kV,Line,1989-12-31,33237,6.295,Public Service of Oklahoma,TLN114:0546,In service, PSO,288238
+66-140,Pryor City (GRDA) - Pryor Junction,69 kV,Line,1962-12-31,24668,4.672,Public Service of Oklahoma,TLN114:0140,In service, PSO,288254
+66-141A,Pryor Continental Pipe Tap,69 kV,Tap,1964-12-31,22807,4.320,Public Service of Oklahoma,TLN114:0141A,In service, PSO,288270
+66-141,Chouteau - Pryor City (GRDA),69 kV,Line,1983-12-31,28156,5.333,Public Service of Oklahoma,TLN114:0141,In service, PSO,288286
+66-145,Wright City Tap,69 kV,Tap,1969-12-31,43308,8.202,Public Service of Oklahoma,TLN114:0145A,In service, PSO,288366
+66-119,Hugo - Valliant 345,69 kV,Line,1954-12-31,178134,33.737,Public Service of Oklahoma,TLN114:0119,In service, PSO,288382
+66-130B,McGee Creek Pump Station Tap,69 kV,Tap,1982-12-31,20635,3.908,Public Service of Oklahoma,TLN114:0130B,In service, PSO,288398
+81-517,SWPA Tap - Explorer Pump (Holdenville),138 kV,Line,1973-12-31,2245,0.425,Public Service of Oklahoma,TLN114:0517,In service, PSO,288414
+81-823,Tupelo (SWPA) - Atoka,138 kV,Line,1983-12-31,129539,24.534,Public Service of Oklahoma,TLN114:0823,In service, PSO,288430
+81-823A,Colgate Pump Tap,138 kV,Tap,1960-12-31,3221,0.610,Public Service of Oklahoma,TLN114:0823A,In service, PSO,288462
+81-823C,Allen Transoak Tap,138 kV,Tap,1973-12-31,43977,8.329,Public Service of Oklahoma,TLN114:0823C,In service, PSO,288478
+66-117A,Atoka Pump Tap,69 kV,Tap,1987-12-31,1511,0.286,Public Service of Oklahoma,TLN114:0117A,In service, PSO,288510
+66-118,Red Oak - Talihina West Tap,69 kV,Line,1973-12-31,77085,14.599,Public Service of Oklahoma,TLN114:0118,In service, PSO,288542
+81-836B,Enogex Tap,138 kV,Tap,1965-12-31,5597,1.060,Public Service of Oklahoma,TLN114:0836B,In service, PSO,288558
+81-836,Eufaula (SWPA) - Red Oak,138 kV,Line,1963-12-31,202098,38.276,Public Service of Oklahoma,TLN114:0836,In service, PSO,288574
+66-111,Lone Oak - Red Oak,69 kV,Line,1946-12-31,141657,26.829,Public Service of Oklahoma,TLN114:0111,In service, PSO,288590
+66-111A,Wilburton Tap,69 kV,Tap,1934-12-31,97,0.018,Public Service of Oklahoma,TLN114:0111A,In service, PSO,288606
+81-561,Craig Junction - Idabel,138 kV,Line,2001-01-01,94541,17.906,Public Service of Oklahoma,TLN114:0561,In service, PSO,288638
+90-904,Pittsburg 345 - Valliant 345,345 kV,Line,1968-12-31,371164,70.296,Public Service of Oklahoma,TLN114:0904,In service, PSO,288654
+90-903,Northeastern Power Station - Oneta,345 kV,Line,1982-12-31,164387,31.134,Public Service of Oklahoma,TLN114:0903,In service, PSO,288670
+66-147,Ramona Tap,69 kV,Tap,1981-12-31,480,0.091,Public Service of Oklahoma,TLN114:0147,In service, PSO,288686
+81-552,Barnsdall Tap - Mound Road,138 kV,Line,1993-12-31,93360,17.682,Public Service of Oklahoma,TLN114:0552,In service, PSO,288702
+66-130,Atoka - Hugo,69 kV,Line,1946-12-31,262284,49.675,Public Service of Oklahoma,TLN114:0130,In service, PSO,288718
+81-539,McAlester - Lone Oak,138 kV,Line,1964-12-31,71603,13.561,Public Service of Oklahoma,TLN114:0539,In service, PSO,288734
+81-539A,McAlester South Tap,138 kV,Tap,1985-12-31,30596,5.795,Public Service of Oklahoma,TLN114:0539A,In service, PSO,288750
+81-535,Weatherford Junction - Jensen (OG&E),138 kV,Line,1998-12-31,229278,43.424,Public Service of Oklahoma,TLN114:0535,In service, PSO,288782
+81-510,Elk City - Hobart JCT,138 kV,Line,1962-12-31,174916,33.128,Public Service of Oklahoma,TLN114:0510,In service, PSO,288798
+81-506,Clinton Jct - Weatherford Jct,138 kV,Line,1971-12-31,99772,18.896,Public Service of Oklahoma,TLN114:0506,In service, PSO,288814
+81-506A,Clinton Natural Gas Tap,138 kV,Tap,1980-12-31,4851,0.919,Public Service of Oklahoma,TLN114:0506A,In service, PSO,288830
+81-511,Elk City - Clinton Junction,138 kV,Line,1965-12-31,127633,24.173,Public Service of Oklahoma,TLN114:0511,In service, PSO,288846
+81-510A,Clinton Sherman AFB Tap,138 kV,Tap,1972-12-31,24391,4.620,Public Service of Oklahoma,TLN114:0510A,In service, PSO,288862
+81-845,Russell (WFEC) - Lake Pauline (WTU),138 kV,Line,1983-12-31,89588,16.967,Public Service of Oklahoma,TLN114:0845,In service, PSO,288878
+81-820,Hobart Junction - Russell (WFEC),138 kV,Line,1980-12-31,211448,40.047,Public Service of Oklahoma,TLN114:0820,In service, PSO,288894
+66-606,Hobart - Snyder,69 kV,Line,1942-12-31,150328,28.471,Public Service of Oklahoma,TLN114:0606,In service, PSO,288910
+81-820A,Altus Junction Tap,138 kV,Tap,1970-12-31,20426,3.869,Public Service of Oklahoma,TLN114:0820A,In service, PSO,288926
+66-606A,Roosevelt Amoco Tap,69 kV,Tap,1993-12-31,3482,0.660,Public Service of Oklahoma,TLN114:0606A,In service, PSO,288942
+66-624,Frederick JCT - Vernon Main Street ,69 kV,Line,1945-12-31,111446,21.107,Public Service of Oklahoma,TLN114:0624,In service, PSO,288958
+66-624A,Davidson Tap,69 kV,Tap,1963-12-31,21314,4.037,Public Service of Oklahoma,TLN114:0624A,In service, PSO,288974
+90-918,Lawton Eastside 345 - Oklaunion,345 kV,Line,1982-12-31,351709,66.612,Public Service of Oklahoma,TLN114:0918,In service, PSO,288990
+81-548,Tulsa North - American Airlines,138 kV,Line,1989-12-31,58457,11.071,Public Service of Oklahoma,TLN114:0548,In service, PSO,289022
+81-829A,Cherokee Industrial Park Tap,138 kV,Tap,1977-12-31,11456,2.170,Public Service of Oklahoma,TLN114:0829A,In service, PSO,289038
+81-548A,Whirlpool Tap,138 kV,Tap,1994-12-31,1755,0.332,Public Service of Oklahoma,TLN114:0548A,In service, PSO,289054
+81-846,Tulsa North - Mohawk,138 kV,Line,1967-12-31,36936,6.996,Public Service of Oklahoma,TLN114:0846,In service, PSO,289070
+81-817,Northeast Plant - Catoosa,138 kV,Tap,1993-12-31,18614,3.525,Public Service of Oklahoma,TLN114:0817,In service, PSO,289086
+81-828B,Port of Catoosa Tap,138 kV,Tap,1981-12-31,10443,1.978,Public Service of Oklahoma,TLN114:0828B,In service, PSO,289118
+81-828A,Terra Nitrogen Tap,138 kV,Tap,1973-12-31,6915,1.310,Public Service of Oklahoma,TLN114:0828A,In service, PSO,289134
+81-838,Lynn Lane Tap,138 kV,Tap,1966-12-31,5326,1.009,Public Service of Oklahoma,TLN114:0810,In service, PSO,289150
+81-838B,21st & 89th East Avenue Tap,138 kV,Tap,1964-12-31,41774,7.912,Public Service of Oklahoma,TLN114:0838B,In service, PSO,289166
+81-550,Riverside Station - Tulsa Power Station,138 kV,Line,1985-12-31,40913,7.749,Public Service of Oklahoma,TLN114:0550,In service, PSO,289214
+81-521,Tulsa No. 1 - Riverside,138 kV,Line,1974-12-31,52275,9.900,Public Service of Oklahoma,TLN114:00521,In service, PSO,289230
+81-521B,Jenks Tap,138 kV,Tap,1954-12-31,249,0.047,Public Service of Oklahoma,TLN114:0521B,In service, PSO,289246
+81-550A,Oaks 138 Tap,138 kV,Tap,1997-12-31,16067,3.043,Public Service of Oklahoma,TLN114:0550A,In service, PSO,289262
+81-522,Riverside Power Station - Tulsa Power Station,138 kV,Line,1951-12-31,31241,5.917,Public Service of Oklahoma,TLN114:0522,In service, PSO,289278
+81-534,Sheffield Steel Co - Wekiwa,138 kV,Line,1978-12-31,31062,5.883,Public Service of Oklahoma,TLN114:0534,In service, PSO,289294
+81-529,Keystone (SWPA) - Wekiwa,138 kV,Line,1985-12-31,10555,1.999,Public Service of Oklahoma,TLN114:0529,In service, PSO,289310
+81-838,Catoosa - Oneta,138 kV,Line,1964-12-31,22721,4.303,Public Service of Oklahoma,TLN114:0838,In service, PSO,289358
+81-846A,Pine & Peoria Tap No2,138 kV,Tap,1967-12-31,18280,3.462,Public Service of Oklahoma,TLN114:0846A,In service, PSO,289374
+81-518,Tulsa North - West Edison,138 kV,Line,1973-12-31,53673,10.165,Public Service of Oklahoma,TLN114:0518,In service, PSO,289390
+66-109,Catoosa - Dawson  ,69 kV,Line,1970-12-31,37963,7.190,Public Service of Oklahoma,TLN114:0109,In service, PSO,289422
+66-150,Dawson - Owasso (GRDA),69 kV,Line,2003-05-21,33728,6.388,Public Service of Oklahoma,TLN114:0150,In service, PSO,289438
+81-547,American Airlines - Catoosa  ,138 kV,Line,1990-12-31,50445,9.554,Public Service of Oklahoma,TLN114:0547,In service, PSO,289454
+81-828,Catoosa - Northeastern Power Station,138 kV,Line,1964-12-31,119444,22.622,Public Service of Oklahoma,TLN114:0828,In service, PSO,289470
+81-828,TAP Catoosa -  NES,138 kV,Tap,1957-12-31,4249,0.805,Public Service of Oklahoma,TLN114:0828,In service, PSO,289486
+81-841,Southwestern Power - Cornville,138 kV,Line,1966-12-31,143855,27.245,Public Service of Oklahoma,TLN114:00841,In service, PSO,289582
+81-841B,Chickasha North 29th Street Tap,138 kV,Tap,1964-12-31,145,0.027,Public Service of Oklahoma,TLN114:0841B,In service, PSO,289598
+81-841C,Verden Natural Gas Tap,138 kV,Tap,1964-12-31,2178,0.412,Public Service of Oklahoma,TLN114:0841C,In service, PSO,289614
+66-608,Snyder - Altus Junction,69 kV,Line,1947-12-31,118437,22.431,Public Service of Oklahoma,TLN114:0608,In service, PSO,289630
+66-608A,Tap - 66-608A to interconnect 66-601A,69 kV,Line,1987-12-31,37192,7.044,Public Service of Oklahoma,TLN114:0608A,In service, PSO,289662
+81-542,Lawton 112th & West Gore - Snyder,138 kV,Line,1975-12-31,144260,27.322,Public Service of Oklahoma,TLN114:0542,In service, PSO,289694
+542A,Cache Tap,138 kV,Tap,1997-12-31,220,0.042,Public Service of Oklahoma,TLN114:0542A,In service, PSO,289710
+66-629,Comanche Power Station - Walters Jct,69 kV,Line,1971-12-31,66655,12.624,Public Service of Oklahoma,TLN114:0629,In service, PSO,289726
+66-629C,OMPA Walters City Tap,69 kV,Tap,1975-12-31,8615,1.632,Public Service of Oklahoma,TLN114:0629C,In service, PSO,289742
+66-629A,Lawton Disposal Plant Tap,69 kV,Tap,1974-12-31,20347,3.854,Public Service of Oklahoma,TLN114:0629A,In service, PSO,289774
+85-100,Elk City - Grapevine (SPS),230 kV,Line,1971-12-31,179577,34.011,Public Service of Oklahoma,TLN114:0100,In service, PSO,293262
+66-119A,Kiamichi Pump Tap,69 kV,Tap,1934-12-31,19159,3.629,Public Service of Oklahoma,TLN114:0119A,In service, PSO,293278
+66-131B,Ogden Martin Tap,69 kV,Tap,1987-12-31,3565,0.675,Public Service of Oklahoma,TLN114:0131B,In service, PSO,293310
+66-146A,Afton Continental Pipeline Tap,69 kV,Tap,1987-12-31,6127,1.160,Public Service of Oklahoma,TLN114:0146A,In service, PSO,293342
+81-520A,Zunis Tap South,138 kV,Tap,1955-12-31,18290,3.464,Public Service of Oklahoma,TLN114:0520A,In service, PSO,293374
+81-501B,Fulton Tap,138 kV,Tap,1974-12-31,4848,0.918,Public Service of Oklahoma,TLN114:0501B,In service, PSO,293390
+81-506B,Weatherford City Tap,138 kV,Tap,1971-12-31,14692,2.782,Public Service of Oklahoma,TLN114:0506B,In service, PSO,293422
+513A,Warren Medical Center Tap,138 kV,Tap,1973-12-31,16016,3.033,Public Service of Oklahoma,TLN114:0513A,In service, PSO,293438
+81-513B,Oral Roberts Tap,138 kV,Tap,1976-12-31,6326,1.198,Public Service of Oklahoma,TLN114:0513B,In service, PSO,293454
+81-518B,Denver Tap,138 kV,Tap,1974-12-31,10987,2.081,Public Service of Oklahoma,TLN114:0518B,In service, PSO,293486
+808A,Carson Tap South,138 kV,Tap,1976-12-31,14167,2.683,Public Service of Oklahoma,TLN114:0808A,In service, PSO,293518
+81-501A,Kenosha Tap,138 kV,Tap,1960-12-31,26338,4.988,Public Service of Oklahoma,TLN114:0525B,In service, PSO,293534
+81-526,Catoosa - Maid,138 kV,Line,1988-12-31,132370,25.070,Public Service of Oklahoma,TLN114:0526,In service, PSO,293550
+81-526A,Inola Tap,138 kV,Tap,1975-12-31,10645,2.016,Public Service of Oklahoma,TLN114:0526A,In service, PSO,293566
+81-537,Elk City - Sayre,138 kV,Line,1995-12-31,100943,19.118,Public Service of Oklahoma,TLN114:0537,In service, PSO,293614
+81-540,Lawton Eastside - Sheridan Road,138 kV,Line,1988-12-31,38705,7.330,Public Service of Oklahoma,TLN114:0540,In service, PSO,293630
+541A,Lawton Westside Tap,138 kV,Tap,1989-12-31,8087,1.532,Public Service of Oklahoma,TLN114:0541A,In service, PSO,293646
+542B,Lawton Air Products Tap,138 kV,Tap,1997-12-31,3225,0.611,Public Service of Oklahoma,TLN114:0542B,In service, PSO,293662
+81-561A,Broken Bow Tap,138 kV,Tap,1993-12-31,12428,2.354,Public Service of Oklahoma,TLN114:0561A,In service, PSO,293710
+607A,Lawton Gore Tap,69 kV,Tap,1988-12-31,3194,0.605,Public Service of Oklahoma,TLN114:0607A,In service, PSO,293742
+66-613,Cornville - Cyril,69 kV,Line,1953-12-31,92936,17.602,Public Service of Oklahoma,TLN114:0613,In service, PSO,293806
+66-617,Fort Sill - Porter Hill,69 kV,Line,1960-12-31,53577,10.147,Public Service of Oklahoma,TLN114:0617,In service, PSO,293822
+81-838A,Broken Arrow North Tap No. 2,138 kV,Tap,1965-12-31,21077,3.992,Public Service of Oklahoma,TLN114:0838A,In service, PSO,293918
+81-809B,Southern Hills Tap,138 kV,Tap,1982-12-31,5806,1.100,Public Service of Oklahoma,TLN114:0809B,In service, PSO,293934
+81-811A,West Edison Tap,138 kV,Tap,1965-12-31,18321,3.470,Public Service of Oklahoma,TLN114:0811A,In service, PSO,293950
+81-812A,Oaks Tap,138 kV,Tap,1981-12-31,12900,2.443,Public Service of Oklahoma,TLN114:0812A,In service, PSO,293966
+81-814A,Owasso Tap,138 kV,Tap,1981-12-31,3269,0.619,Public Service of Oklahoma,TLN114:0814A,In service, PSO,293982
+81-821B,Rush Springs Natural Gas Tap,138 kV,Tap,1994-12-31,37010,7.009,Public Service of Oklahoma,TLN114:0821B,In service, PSO,293998
+81-833A,Tuttle Conoco Tap,138 kV,Tap,1983-12-31,25262,4.784,Public Service of Oklahoma,TLN114:0833A,In service, PSO,294030
+81-838C,Dawson Tap,138 kV,Tap,1965-12-31,12663,2.398,Public Service of Oklahoma,TLN114:0838C,In service, PSO,294046
+81-846C,Yale & Archer Tap,138 kV,Tap,1967-12-31,19563,3.705,Public Service of Oklahoma,TLN114:0846C,In service, PSO,294078
+81-848A,Fletcher Temple Eastex Tap,138 kV,Tap,1984-12-31,5934,1.124,Public Service of Oklahoma,TLN114:0848A,In service, PSO,294094
+81 - 849,Kelco - Okmulgee,138 kV,Line,2001-12-31,12182,2.307,Public Service of Oklahoma,TLN114:0849,In service, PSO,294110
+81-531,Hollis (PSO) - Hollis (WTU),138 kV,Line,1997-12-31,90549,17.149,Public Service of Oklahoma,TLN114:0531,In service, PSO,295358
+66-627,Russell (WFEC) - Duke,69 kV,Line,1971-12-31,13145,2.490,Public Service of Oklahoma,TLN114:0627,In service, PSO,295374
+81-509,Cornville - Norge Road ,138 kV,Line,1954-12-31,25833,4.893,Public Service of Oklahoma,TLN114:0509,In service, PSO,295390
+81-804,Southwestern - Norge Road,138 kV,Line,1963-12-31,118997,22.537,Public Service of Oklahoma,TLN114:0804,In service, PSO,295406
+66-117B,Army Ammo Tap,69 kV,Tap,1943-12-31,12475,2.363,Public Service of Oklahoma,TLN114:0117B,In service, PSO,295422
+81-507A,Valliant Weyco No. 2 Tap,138 kV,Tap,1990-12-31,2256,0.427,Public Service of Oklahoma,TLN114:0507A,In service, PSO,295438
+81-835A,Wilburton Transok Tap,138 kV,Tap,1996-12-31,8481,1.606,Public Service of Oklahoma,TLN114:0835A,In service, PSO,295454
+81-819,Hobart Junction - Southwestern Power Station,138 kV,Line,1950-12-31,135455,25.654,Public Service of Oklahoma,TLN114:0819,In service, PSO,295470
+66-626A,Foss Water Plant Tap,69 kV,Tap,1972-12-31,66830,12.657,Public Service of Oklahoma,TLN114:0626A,In service, PSO,295518
+848,Southwestern - Lawton Eastside,138 kV,Line,1950-12-31,211484,40.054,Public Service of Oklahoma,TLN114:00848,In service, PSO,295550
+66-625,Cyril - Elgin JCT,69 kV,Line,1984-12-31,48368,9.161,Public Service of Oklahoma,TLN114:0625,In service, PSO,295598
+66-618,Elgin Jct - Porter Hill,69 kV,Line,1949-12-31,35004,6.630,Public Service of Oklahoma,TLN114:0618,In service, PSO,295614
+81-507,Valliant  - Weyco ,138 kV,Line,1970-12-31,20732,3.926,Public Service of Oklahoma,TLN114:0507,In service, PSO,295662
+81-609,Oklaunion DC Tie - DC Terminal North,345 kV,Line,2014-01-06,452,0.086,Public Service of Oklahoma,TLN114:81609,In service, PSO,295678
+66-130C,Valley Timbers Tap,69 kV,Tap,1998-12-31,2128,0.403,Public Service of Oklahoma,TLN114:67130,In service, PSO,295694
+66-631,Elk City - Hammon Junction,69 kV,Line,1983-12-31,91163,17.266,Public Service of Oklahoma,TLN114:0631,In service, PSO,295710
+66-626,Clinton Junction - Clinton,69 kV,Line,1968-12-31,28798,5.454,Public Service of Oklahoma,TLN114:0626,In service, PSO,295726
+66-622,Clinton - Weatherford,69 kV,Line,1967-12-31,78991,14.960,Public Service of Oklahoma,TLN114:0622,In service, PSO,295742
+81-833,Cornville - Cimarron (OG&E),138 kV,Line,1963-12-31,122588,23.217,Public Service of Oklahoma,TLN114:0833,In service, PSO,295758
+66-611,Hobart Junction - Hobart City,69 kV,Line,1963-12-31,10516,1.992,Public Service of Oklahoma,TLN114:0611,In service, PSO,295774
+81-840,Lawton Eastside - Duncan,138 kV,Line,1963-12-31,114729,21.729,Public Service of Oklahoma,TLN114:00840,In service, PSO,295806
+90-919,Lawton Eastside 345 - Cimarron (OG&E),345 kV,Line,1984-12-31,112604,21.327,Public Service of Oklahoma,TLN114:0919,In service, PSO,295838
+81-527,Lawton Eastside - Lawton 112th & West Gore,138 kV,Line,1974-12-31,81368,15.411,Public Service of Oklahoma,TLN114:0527,In service, PSO,295854
+66-619,Lawton Eastside - Lawton Wolf Creek,69 kV,Line,1976-12-31,24385,4.618,Public Service of Oklahoma,TLN114:0619,In service, PSO,295870
+66-607,Fort Sill - Lawton Eastside,69 kV,Line,1960-12-31,44104,8.353,Public Service of Oklahoma,TLN114:0607,In service, PSO,295886
+90-924,Oneta - Calpine (North),345 kV,Line,2001-10-30,710,0.134,Public Service of Oklahoma,TLN114:0924,In service, PSO,296062
+90-925,Oneta - Calpine (South),345 kV,Line,2001-10-30,692,0.131,Public Service of Oklahoma,TLN114:0925,In service, PSO,296078
+81-813,Sand Springs - Sheffield Steel,138 kV,Line,1980-12-31,4102,0.777,Public Service of Oklahoma,TLN114:0813,In service, PSO,296110
+90-923,Riverside Switchyard - Cogentrix Switchyard,345 kV,Line,2000-12-31,5300,1.004,Public Service of Oklahoma,TLN114:00923,In service, PSO,296142
+81-565,Comanche - Lawton 112th & West Gore,138 kV,Line,1999-12-31,104454,19.783,Public Service of Oklahoma,TLN114:0565,In service, PSO,296158
+81-803,Southwestern - Anadarko (WFEC),138 kV,Line,1970-12-31,39260,7.436,Public Service of Oklahoma,TLN114:0803,In service, PSO,296174
+81-541,Lawton Sheridan Road - Lawton 112th & West Gore,138 kV,Line,1987-12-31,37308,7.066,Public Service of Oklahoma,TLN114:0541,In service, PSO,296190
+81-821A,Rush Springs Chestnut St Tap,138 kV,Tap,1954-12-31,10817,2.049,Public Service of Oklahoma,TLN114:0821A,In service, PSO,296254
+81-829A,Whirlpool Tap 1,138 kV,Tap,1994-12-31,2664,0.505,Public Service of Oklahoma,TLN114:0548A,In service, PSO,296270
+81-844,Bartlesville Comanche -  Mound Road,138 kV,Line,1966-12-31,15365,2.910,Public Service of Oklahoma,TLN114:0844,In service, PSO,296286
+66-146,GRDA Tap - Explorer Pipeline Pump Station,69 kV,Tap,1970-12-31,16774,3.177,Public Service of Oklahoma,TLN114:0146,In service, PSO,296302
+81-824A,Lone Star Tap,138 kV,Tap,1965-12-31,871,0.165,Public Service of Oklahoma,TLN114:0824A,In service, PSO,296318
+90-910,Tulsa North 345 - GRDA #1,345 kV,Line,1974-12-31,69634,13.188,Public Service of Oklahoma,TLN114:0910,In service, PSO,296334
+81-808,Sand Springs - Tulsa Power Station,138 kV,Line,1953-12-31,42034,7.961,Public Service of Oklahoma,TLN114:00808,In service, PSO,296350
+81-553C,Arkansas River Tap,138 kV,Tap,1990-12-31,15091,2.858,Public Service of Oklahoma,TLN114:0553C,In service, PSO,296366
+81-551,Kimberly Clark - Bixby 111th Street,138 kV,Line,1987-12-31,28503,5.398,Public Service of Oklahoma,TLN114:00551,In service, PSO,296382
+81-544,Riverside - Kimberly Clark,138 kV,Line,1986-12-31,16020,3.034,Public Service of Oklahoma,TLN114:0544,In service, PSO,296398
+81-807,Oneta - Tulsa Southeast,138 kV,Line,1957-12-31,96177,18.215,Public Service of Oklahoma,TLN114:0807,In service, PSO,296414
+81-514,Bixby 111Th - Oneta,138 kV,Line,1973-12-31,30819,5.837,Public Service of Oklahoma,TLN114:0514,In service, PSO,296430
+81-543,Lawton Goodyear - Lawton 112th & Gore,138 kV,Line,1977-12-31,3120,0.591,Public Service of Oklahoma,TLN114:0543,In service, PSO,296446
+81-559,Bartlesville Southeast - Bartlesville Comanche,138 kV,Line,1963-12-31,26101,4.943,Public Service of Oklahoma,TLN114:0559,In service, PSO,296510
+81-524,Sand Springs - Denver,138 kV,Line,1977-12-31,36708,6.952,Public Service of Oklahoma,TLN114:0524,In service, PSO,296526
+81-525,Tulsa - Denver,138 kV,Line,1976-12-31,31396,5.946,Public Service of Oklahoma,TLN114:0525,In service, PSO,296542
+81-560,Oneta - 81st & Garnett,138 kV,Line,2000-12-31,90867,17.210,Public Service of Oklahoma,TLN114:0560,In service, PSO,296558
+81-519,Tulsa Power Station - 36th & Lewis,138 kV,Line,2000-12-31,10562,2.000,Public Service of Oklahoma,TLN114:0519,In service, PSO,296574
+81-520,Tulsa Southeast - 36th & Lewis,138 kV,Line,1973-12-31,16150,3.059,Public Service of Oklahoma,TLN114:0520,In service, PSO,296590
+81-520B,52nd & Delaware Tap,138 kV,Tap,1983-12-31,10747,2.035,Public Service of Oklahoma,TLN114:0520B,In service, PSO,296606
+81-556,Tulsa Southeast - East 61st Street,138 kV,Line,1957-12-31,18673,3.537,Public Service of Oklahoma,TLN114:00556,In service, PSO,296622
+81-563,96th & Yale - East 61st Street,138 kV,Line,1999-12-31,29538,5.594,Public Service of Oklahoma,TLN114:0563,In service, PSO,296638
+81-553A,77th & Memorial Tap,138 kV,Tap,1999-12-31,6856,1.298,Public Service of Oklahoma,TLN114:0553A,In service, PSO,296654
+81-809,Riverside - South Hudson,138 kV,Line,1979-12-31,53836,10.196,Public Service of Oklahoma,TLN114:0809,In service, PSO,296670
+81-809A,81st & Yale Tap,138 kV,Tap,1982-12-31,2491,0.472,Public Service of Oklahoma,TLN114:0809A,In service, PSO,296686
+81-513,Riverside - East 96th & Yale,138 kV,Line,1950-12-31,12767,2.418,Public Service of Oklahoma,TLN114:0513,In service, PSO,296702
+81-521A,Delaware Tap,138 kV,Tap,1967-12-31,20601,3.902,Public Service of Oklahoma,TLN114:0521A,In service, PSO,296718
+81-503,South Hudson - Tulsa Southeast,138 kV,Line,1951-12-31,10245,1.940,Public Service of Oklahoma,TLN114:0503,In service, PSO,296734
+81-502,Tulsa Southeast - Ford Glass Plant,138 kV,Line,1973-12-31,26240,4.970,Public Service of Oklahoma,TLN114:00502,In service, PSO,296750
+81-553B,53rd & Garnett Tap,138 kV,Tap,1999-12-31,3942,0.747,Public Service of Oklahoma,TLN114:0553B,In service, PSO,296766
+81-512,Oneta - Broken Arrow 81st,138 kV,Line,1973-12-31,43092,8.161,Public Service of Oklahoma,TLN114:00512,In service, PSO,296782
+66-112,Sand Springs - Tulsa Sunray,69 kV,Line,1976-12-31,26900,5.095,Public Service of Oklahoma,TLN114:0112,In service, PSO,296798
+66-131,Tulsa Power Station - Arkansas River,69 kV,Line,1987-12-31,23033,4.362,Public Service of Oklahoma,TLN114:0131,In service, PSO,296814
+81-810B,21st & 89th Street Tap,138 kV,Tap,1957-12-31,9721,1.841,Public Service of Oklahoma,TLN114:0810B,In service, PSO,296830
+81-810C,15th & Fulton Tap,138 kV,Tap,1967-12-31,15049,2.850,Public Service of Oklahoma,TLN114:0810C,In service, PSO,296846
+808B,Union Avenue Refinery Tap,138 kV,Tap,1987-12-31,3149,0.596,Public Service of Oklahoma,TLN114:0808B,In service, PSO,296862
+81-518A,46th Street North Tap No1,138 kV,Tap,1971-12-31,861,0.163,Public Service of Oklahoma,TLN114:0518A,In service, PSO,296878
+81-562,Mohawk - American Airlines,138 kV,Line,1990-12-31,31353,5.938,Public Service of Oklahoma,TLN114:0562,In service, PSO,296894
+81-846C,Yale & Archer - Tulsa SE,138 kV,Line,1967-12-31,23290,4.411,Public Service of Oklahoma,TLN114:0501,In service, PSO,296926
+81-517A,SWPA Tap - Allen,138 kV,Line,1975-12-31,73,0.014,Public Service of Oklahoma,TLN114:0517A,In service, PSO,296942
+81-515,Comanche - Lawton Eastside,138 kV,Line,1974-12-31,29816,5.647,Public Service of Oklahoma,TLN114:00515,In service, PSO,296958
+81-811,Sand Springs - Wekiwa Sub ,138 kV,Line,1979-12-31,16896,3.200,Public Service of Oklahoma,TLN114:0811,In service, PSO,296974
+66-130A,Antlers Tap,69 kV,Tap,1949-12-31,3915,0.741,Public Service of Oklahoma,TLN114:0130A,In service, PSO,296990
+66-149,Vinita - Vinita Junction,69 kV,Line,1990-12-31,555,0.105,Public Service of Oklahoma,TLN114:0149,In service, PSO,297006
+81-566,Broken Arrow 81st - Ford Glass,138 kV,Line,2016-12-31,16140,3.057,Public Service of Oklahoma,TLN114:00566,In service, PSO,298462
+81-829,Catoosa - Tulsa North,138 kV,Line,1958-12-31,91442,17.319,Public Service of Oklahoma,TLN114:0829,In service, PSO,299806
+81-536,Shidler - Osage (OGE),138 kV,Line,1963-12-31,27980,5.299,Public Service of Oklahoma,TLN114:0536,In service, PSO,299870
+81-846B,46th Street North Tap No2,138 kV,Tap,1971-12-31,4407,0.835,Public Service of Oklahoma,TLN114:0846B,In service, PSO,299886
+81-528A,Pine & Peoria Tap,138 kV,Tap,1967-12-31,30768,5.827,Public Service of Oklahoma,TLN114:0528A,In service, PSO,299902
+90-914,Tulsa North 345 - Wekiwa ,345 kV,Line,1978-12-31,92725,17.562,Public Service of Oklahoma,TLN114:0914,In service, PSO,299918
+81-836A,Stigler Tap,138 kV,Tap,1963-12-31,6970,1.320,Public Service of Oklahoma,TLN114:0836A,In service, PSO,299950
+66-145,Valliant 345kV - Georgia Pacific ,69 kV,Line,1969-12-31,52863,10.012,Public Service of Oklahoma,TLN114:0145,In service, PSO,300014
+81-825,Lawton Eastside - Southwestern,138 kV,Line,1960-12-31,190206,36.024,Public Service of Oklahoma,TLN114:00825,In service, PSO,300046
+81-811B,Carson Tap West,138 kV,Tap,2015-12-31,14098,2.670,Public Service of Oklahoma,TLN114:0811B,In service, PSO,305790
+81-849,Kelco - Henryetta,138 kV,Line,2001-12-31,61229,11.596,Public Service of Oklahoma,TLN114:00568,In service, PSO,326158
+81-522A,Southern Hills Tap No. 2,138 kV,Tap,1985-12-31,1005,0.190,Public Service of Oklahoma,TLN114:0521C,In service, PSO,326238
+81-809C,Oral Roberts Tap No.2,138 kV,Tap,1982-12-31,3571,0.676,Public Service of Oklahoma,TLN114:0809C,In service, PSO,326254
+809D,Warren Medical Center Tap No.2,138 kV,Tap,1973-12-31,2465,0.467,Public Service of Oklahoma,TLN114:0809D,In service, PSO,326270
+81-810D,Lynn Lane Tap No.2,138 kV,Tap,1982-12-31,5462,1.035,Public Service of Oklahoma,TLN114:0810D,In service, PSO,326286
+66-632,Weatherford Southeast - Weatherford City,69 kV,Line,2001-12-31,11695,2.215,Public Service of Oklahoma,TLN114:00632,In service, PSO,326302
+81-570,Weatherford Southeast Extension,138 kV,Extension,2003-12-31,1294,0.245,Public Service of Oklahoma,TLN114:00570,In service, PSO,326318
+81-817,Northeastern Power Station - Tulsa North 138,138 kV,Line,1983-12-31,73161,13.856,Public Service of Oklahoma,TLN114:0814,In service, PSO,326366
+81-802,Riverside Power Station - Okmulgee  ,138 kV,Line,2003-12-31,159834,30.272,Public Service of Oklahoma,TLN114:0802,In service, PSO,326382
+66-113B,VVEC Hulah Tap,69 kV,Tap,1953-12-31,423,0.080,Public Service of Oklahoma,TLN114:0113B,In service, PSO,326558
+81-807A,Broken Arrow North Tap,138 kV,Tap,1965-12-31,17269,3.271,Public Service of Oklahoma,TLN114:0807A,In service, PSO,326814
+81-822,Northeast Station - Tulsa North 138,138 kV,Line,1968-12-31,1635,0.310,Public Service of Oklahoma,TLN114:00822,In service, PSO,326830
+81-526B,Chouteau 138 kV Tap,138 kV,Tap,2001-12-31,29765,5.637,Public Service of Oklahoma,TLN114:0526B,In service, PSO,348351
+66-612A,Binger Tap,69 kV,Tap,1961-12-31,48414,9.169,Public Service of Oklahoma,TLN114:0612A,In service, PSO,349316
+66-612,Southwestern Power Station - Weatherford City,69 kV,Line,1950-12-31,31908,6.043,Public Service of Oklahoma,TLN114:0612,In service, PSO,358277
+81-530,Riverside 138 - Riverside 345,138 kV,Line,2006-12-31,7967,1.509,Public Service of Oklahoma,TLN114:0530,In service, PSO,362755
+81-852,Sapulpa Road Extension No.1,138 kV,Extension,2006-12-31,27628,5.233,Public Service of Oklahoma,TLN114:00852,In service, PSO,363727
+81-851,Sapulpa Road Extension No.2,138 kV,Extension,2006-12-31,26793,5.074,Public Service of Oklahoma,TLN114:00851,In service, PSO,370434
+81-579,Altus Junction - Snyder ,138 kV,Line,2007-12-31,136243,25.804,Public Service of Oklahoma,TLN114:00853,In service, PSO,383599
+81-577,Mow-Way Extension (West),138 kV,Extension,2007-12-31,19751,3.741,Public Service of Oklahoma,TLN114:00577,In service, PSO,394779
+81-553,Tulsa Southeast - Oneta,138 kV,Line,1994-12-31,11311,2.142,Public Service of Oklahoma,TLN114:00553,In service, PSO,399570
+81-582,Sayre - Erick (WFEC),138 kV,Line,2007-12-31,53171,10.070,Public Service of Oklahoma,TLN114:00582,In service, PSO,399888
+81-504,Craig Junction - Broken Bow (SWPA),138 kV,Line,1969-12-31,49555,9.385,Public Service of Oklahoma,TLN114:0504,In service, PSO,404706
+81-836C,Red Oak Pump Tap,138 kV,Tap,2006-12-31,17508,3.316,Public Service of Oklahoma,TLN114:00854,In service, PSO,413026
+81-501A,Zunis Tap,138 kV,Tap,1989-12-31,1393,0.264,Public Service of Oklahoma,TLN114:0501A,In service, PSO,415903
+66-118A,Talihina - Talihina WFEC,69 kV,Line,1973-12-31,9199,1.742,Public Service of Oklahoma,TLN114:0118A,In service, PSO,454321
+66-148,GRDA Tap to Afton,69 kV,Tap,1987-12-31,3232,0.612,Public Service of Oklahoma,TLN114:0148,In service, PSO,455601
+90-921,Clarksville 345(SWEPCO) - Muskogee(OG&E),345 kV,Line,1964-12-31,11965,2.266,Public Service of Oklahoma,TLN114:0921,In service, PSO,456881
+81-847,Craig Junction - Patterson (OK),138 kV,Line,2012-09-30,12874,2.438,Public Service of Oklahoma,TLN114:00847,In service, PSO,469361
+81-610,Oklaunion DC Tie - DC Terminal South,345 kV,Line,2014-01-06,709,0.134,Public Service of Oklahoma,TLN114:81610,In service, PSO,474161
+90-920,Oklaunion - Tuco (SPS),345 kV,Line,1982-12-31,4878,0.924,Public Service of Oklahoma,TLN114:0920,In service, PSO,475121
+66843,Sand Springs 138KV Bus Tie,138 kV,Bus tie,1934-12-31,173,0.033,Public Service of Oklahoma,PSO66843,In service, PSO,477050
+81-829,Cornville Bus Tie,69 kV,Bus tie,2014-02-28,593,0.112,Public Service of Oklahoma,PSO81929TR,In service, PSO,519283
+81-818,Sand Springs - Bluebell Interconnect (OG&E),138 kV,Line,1963-12-31,14123,2.675,Public Service of Oklahoma,TLN114:0818,In service, PSO,600881
+0,Weleetka Bus Tie to Power Plant,138 kV,Bus tie,2017-03-16,1123,0.213,Public Service of Oklahoma,TLN114:0000,In service, PSO,606642
+81-682,Leonard - OG&E Redbed Plains,138 kV,Line,2017-05-07,170,0.032,Oklahoma Trans Co,TLN386:81682,In service, PSO,618162
+81-600,Carson Tap North,138 kV,Tap,2016-08-02,524,0.099,Public Service of Oklahoma,TLN114:81600,In service, PSO,624881
+0,NE SubSta. - Units 3&4 Res. Aux. Transf.,138 kV,Line,2000-12-31,384,0.073,Public Service of Oklahoma,TLN114:0000,In service, PSO,635121
+81-619,Heritage Trail Tap,138 kV,Tap,2017-06-14,1862,0.353,Oklahoma Trans Co,TLN386:81619,In service, PSO,657521
+66-147,Walmart MDC - Ramona,69 kV,Line,2000-12-31,480,0.091,Public Service Oklahoma,TLN114:99999,In service, PSO,686355
+81-808,Sand Springs - Tulsa Power Station,138 kV,Line,1953-12-31,42034,7.961,Public Service Oklahoma,TLN114:00808,In service, PSO,688577
+66-117,Atoka - McAlester  ,69 kV,Line,1962-12-31,78571,14.881,Public Service Oklahoma,TLN114:66117,In service, PSO,690485
+66839,Atoka Bus Tie #2,138 kV,Bus tie,1948-12-31,170,0.032,Public Service Oklahoma,PSO66839,In service,TNC,478015
+81-555,Grove - Noel (EDE),161 kV,Line,1991-12-31,32742,6.201,non-AEP,TLN114:0555,In service,Emp-Dist-Electric,305742
+0,GRDA Silver City - Wekiwa,138 kV,Line,2000-12-31,913,0.173,Public Service of Oklahoma,TLN114:0000,In service,GRDA,362761
+90-910,Tulsa North 345 - GRDA No. 1 (GRDA),345 kV,Line,1978-12-31,14473,2.741,non-AEP,TLN114:0109,In service,GRDA,418487
+0,Park Lane - Altus JCT,138 kV,Line,2007-12-31,14837,2.810,non-AEP,TLN114:0608,In service,GRDA,295630
+66-629B,Lawton Relift Tap,69 kV,Tap,1977-12-31,10021,1.898,non-AEP,TLN114:0629B,In service,Waurika-Conserv-Dist,289758
+66-610B,Duncan Relift Tap,69 kV,Tap,1969-12-31,328,0.062,non-AEP,TLN114:0610B,In service,Waurika-Conserv-Dist,293774
+66-630C,Waurika Lake Tap,69 kV,Tap,1978-12-31,20377,3.859,non-AEP,TLN114:0630C,In service,Waurika-Conserv-Dist,293886

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>FEEDER SUMMARY</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"><!-- bootstrap css needs this CDN -->
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.19/css/jquery.dataTables.css"><!-- datatables css needs this CDN -->
+    <script 
+        src="https://code.jquery.com/jquery-3.3.1.js" 
+        integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+        crossorigin="anonymous">//True Jquery CDN is needed for $.ajax()
+    </script>
+    <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js">//datatables javascript needs this CDN</script>
+    <!-- <script
+        src="https://code.jquery.com/jquery-3.3.1.slim.min.js" 
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" 
+        crossorigin="anonymous">//bootstrap javascript needs this CDN but conflicts with full jquery using ajax
+    </script> -->
+    <script 
+        src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" 
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" 
+        crossorigin="anonymous">//bootstrap javascript needs this CDN
+    </script>
+    <script 
+        src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" 
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" 
+        crossorigin="anonymous">//bootstrap javascript needs this CDN
+    </script>
+
+</head>
+<body class="container-fluid">
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="http://aepnow.aepnow.com/">
+            <img src="../images/logo.png" width="108" height="60" alt="AEP_LOGO_ 108x60">
+        </a>
+        <h3 class="display-8">AEP Feeder Summary Document</h3>
+    </nav>
+    <br>
+    <div class="row">
+        <div class="col-2">
+            <div class="list-group" id="list-tab" role="tablist">
+                <a class="list-group-item list-group-item-action active col-8" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home"><span>PSO</span></a>
+                <a class="list-group-item list-group-item-action col-8" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile"><span>SWEPCO</span></a>
+                <a class="list-group-item list-group-item-action col-8" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings"><span>OTHER</span></a>
+            </div>
+        </div>
+        <div class="col-10">
+            <div class="tab-content" id="nav-tabContent">
+                    <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
+                        <span class="col-6">This tab contains data for PSO lines</span>
+                        <hr>
+                        <table id='main-table' class='display table table-hover text-center'>
+                            <thead>
+                                <tr id="header-row">
+                                <!-- Dynmaically write the table headers html from ajax called csv data -->
+                                </tr>
+                            </thead> 
+                            <tbody id="main-body">
+                                <!-- Dynmaically wirte the table body html rows from ajax called csv data -->
+                            </tbody>
+                        </table>
+                    </div>
+                    <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
+                        <span class="col-6">This tab may contain SWEPCO data</span>
+                        <hr>
+                    </div>
+                    <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">
+                        <span class="col-6">This tab may contain data for other providers</span>
+                        <hr>
+                    </div>
+            </div>
+        </div>
+    </div>
+</body>
+<script>
+        function AJAX() {
+            var data;
+            $.ajax({
+                type: "GET",
+                url: "../data/AEPPSO.csv",
+                dataType: "text",
+                success: function (response) {
+                    //console.log("successful ajax call");
+                    data = response;
+                    function processData(allText) {//declare func called processData with parameter allText
+                        //console.log(allText);
+                        var mainArray = [];
+                        var allTextLines = allText.split(/\r\n|\n/);//split the text for each csv line break
+                        var headers = allTextLines[0].split(',');//parse out the headers at line 0 of csv
+                        //console.log(headers);
+                        mainArray.push(headers);//put the headers in the main structure
+                        //console.log(mainArray);
+                        for(var i = 0; i<headers.length; i++){
+                            $('#header-row').append("<th>" + headers[i] + "</th>");//generate the thead html for each column
+                        }
+                        for (var i = 1; i < allTextLines.length; i++) {//iterate through line 1(2nd line) of csv..0 through nth
+                            var eachRow = allTextLines[i].split(',');//split each line at the comma delimiter
+                            if (eachRow.length == headers.length) {//if each line columns is equal to headers columns length
+                                var eachCell = [];
+                                for (var j = 0; j < headers.length; j++) {//iterate through the line
+                                    eachCell.push(eachRow[j]);//push eachCell in an array at the index corresponding to headers
+                                    //console.log(eachCell);
+                                    //$('#row'+i).append
+                                }
+                                mainArray.push(eachRow);//put each line in the array
+                            }
+                            // else{
+                            //     alert("Warning your csv file contains erroneous commas and data integrity is not likely");//this may not be good idea
+                            // }
+                        }
+                        //console.log(mainArray);//just want to see what the data looks like
+                        for(var rowNum=1; rowNum<mainArray.length; rowNum++){
+                            $('#main-body').append('<tr id="mbRow-' + rowNum + '"></th>');
+                            //console.log("rowNum val is" + rowNum);
+                            for(var cell=0; cell < mainArray[rowNum].length; cell++){
+                                $('#mbRow-'+ rowNum).append('<td>' + mainArray[rowNum][cell] + '</td>');
+                                //console.log("cell val is" + cell);
+                            }
+                        }
+                    }
+                    var csv = processData(data);//call our parser function
+                    $(document).ready(function () {
+                        $('#main-table').DataTable({
+                            "scrollY": "600px",
+                            "scrollCollapse": true
+                        });
+                    });
+                },
+                failure: function (response) {
+                    alert("AJAX failure, Close browser and enable cross-origin resource sharing. Then open document with browser");
+                }
+            });
+        }
+        var xhr = AJAX();
+</script>
+</html>
