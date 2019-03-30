@@ -40,33 +40,43 @@
     <br>
     <div class="row">
         <div class="col-2">
-            <div class="list-group" id="list-tab" role="tablist">
-                <a class="list-group-item list-group-item-action active col-8" id="list-home-list" data-toggle="list" href="#list-home" role="tab" aria-controls="home"><span>PSO</span></a>
-                <a class="list-group-item list-group-item-action col-8" id="list-profile-list" data-toggle="list" href="#list-profile" role="tab" aria-controls="profile"><span>SWEPCO</span></a>
-                <a class="list-group-item list-group-item-action col-8" id="list-settings-list" data-toggle="list" href="#list-settings" role="tab" aria-controls="settings"><span>OTHER</span></a>
+            <div class="list-group col-6" id="list-tab" role="tablist">
+                <a class="list-group-item list-group-item-action active" id="list-PSO-list" data-toggle="list" href="#list-PSO" role="tab" aria-controls="PSO"><span>PSO</span></a>
+                <a class="list-group-item list-group-item-action" id="list-SWEPCO-list" data-toggle="list" href="#list-SWEPCO" role="tab" aria-controls="SWEPCO"><span>SWEPCO</span></a>
+                <a class="list-group-item list-group-item-action" id="list-OTHER-list" data-toggle="list" href="#list-OTHER" role="tab" aria-controls="OTHER"><span>OTHER</span></a>
             </div>
         </div>
         <div class="col-10">
             <div class="tab-content" id="nav-tabContent">
-                    <div class="tab-pane fade show active" id="list-home" role="tabpanel" aria-labelledby="list-home-list">
+                    <div class="tab-pane fade show active" id="list-PSO" role="tabpanel" aria-labelledby="list-PSO-list">
                         <span class="col-6">This tab contains data for PSO lines</span>
                         <hr>
-                        <table id='main-table' class='display table table-hover text-center'>
+                        <table id='PSO-table display nowrap' class='display table table-hover text-center'>
                             <thead>
-                                <tr id="header-row">
+                                <tr id="PSO-header-row">
                                 <!-- Dynmaically write the table headers html from ajax called csv data -->
                                 </tr>
                             </thead> 
-                            <tbody id="main-body">
+                            <tbody id="PSO-body">
                                 <!-- Dynmaically wirte the table body html rows from ajax called csv data -->
                             </tbody>
                         </table>
                     </div>
-                    <div class="tab-pane fade" id="list-profile" role="tabpanel" aria-labelledby="list-profile-list">
-                        <span class="col-6">This tab may contain SWEPCO data</span>
+                    <div class="tab-pane fade" id="list-SWEPCO" role="tabpanel" aria-labelledby="list-SWEPCO-list">
+                        <span class="col-6">This tab contains data for SWEPCO lines</span>
                         <hr>
+                        <table id='SWEPCO-table display nowrap' class='display table table-hover text-center'>
+                            <thead>
+                                <tr id="SWEPCO-header-row">
+                                <!-- Dynmaically write the table headers html from ajax called csv data -->
+                                </tr>
+                            </thead> 
+                            <tbody id="SWEPCO-body">
+                                <!-- Dynmaically wirte the table body html rows from ajax called csv data -->
+                            </tbody>
+                        </table>
                     </div>
-                    <div class="tab-pane fade" id="list-settings" role="tabpanel" aria-labelledby="list-settings-list">
+                    <div class="tab-pane fade" id="list-OTHER" role="tabpanel" aria-labelledby="list-OTHER-list">
                         <span class="col-6">This tab may contain data for other providers</span>
                         <hr>
                     </div>
@@ -75,16 +85,26 @@
     </div>
 </body>
 <script>
-        function AJAX() {
+        function AJAX(OPCO)
+        {
             var data;
             $.ajax({
                 type: "GET",
-                url: "../data/AEPPSO.csv",
+                url: "../data/AEP" + OPCO + ".csv",
                 dataType: "text",
-                success: function (response) {
-                    //console.log("successful ajax call");
+                //using the credentials and headers is for xhr request object is complex because it will require modifying each users chorm manifest.json file and beyond scope of most users level
+                // xhrFields: {
+                //     withCredentials: false
+                // },
+                // headers: {
+                        //the domain for the CORS response would be contained here if used
+                // },//this headers is for the CORS request, not part of the data table
+                success: function (response)
+                {
+                    console.log("successful ajax call");
                     data = response;
-                    function processData(allText) {//declare func called processData with parameter allText
+                    function processData(allText)//declare func called processData with parameter allText
+                    {
                         //console.log(allText);
                         var mainArray = [];
                         var allTextLines = allText.split(/\r\n|\n/);//split the text for each csv line break
@@ -93,7 +113,7 @@
                         mainArray.push(headers);//put the headers in the main structure
                         //console.log(mainArray);
                         for(var i = 0; i<headers.length; i++){
-                            $('#header-row').append("<th>" + headers[i] + "</th>");//generate the thead html for each column
+                            $("#" + OPCO + "-header-row").append("<th>" + headers[i] + "</th>");//generate the thead html for each column
                         }
                         for (var i = 1; i < allTextLines.length; i++) {//iterate through line 1(2nd line) of csv..0 through nth
                             var eachRow = allTextLines[i].split(',');//split each line at the comma delimiter
@@ -112,27 +132,35 @@
                         }
                         //console.log(mainArray);//just want to see what the data looks like
                         for(var rowNum=1; rowNum<mainArray.length; rowNum++){
-                            $('#main-body').append('<tr id="mbRow-' + rowNum + '"></th>');
+                            $("#" + OPCO + "-body").append('<tr id="' + OPCO + 'Row-' + rowNum + '"></th>');
                             //console.log("rowNum val is" + rowNum);
                             for(var cell=0; cell < mainArray[rowNum].length; cell++){
-                                $('#mbRow-'+ rowNum).append('<td>' + mainArray[rowNum][cell] + '</td>');
+                                $('#' + OPCO + 'Row-'+ rowNum).append('<td>' + mainArray[rowNum][cell] + '</td>');
                                 //console.log("cell val is" + cell);
                             }
                         }
                     }
                     var csv = processData(data);//call our parser function
-                    $(document).ready(function () {
-                        $('#main-table').DataTable({
+                    $(document).ready(function ()
+                    {
+                        $('table.display').DataTable(
+                            {
+                            "retrieve": true,
+                            // "destroy": true,
                             "scrollY": "600px",
+                            "scrollX": true,
                             "scrollCollapse": true
-                        });
+                            }
+                        )
                     });
                 },
-                failure: function (response) {
-                    alert("AJAX failure, Close browser and enable cross-origin resource sharing. Then open document with browser");
+                failure: function()
+                {
+                    alert("Failed");
                 }
             });
         }
-        var xhr = AJAX();
+        var PSOxhr = AJAX("PSO");//call the PSO data and generate DOM for datatable
+        var SWEPCOxhr = AJAX("SWEPCO");//call the SWEPCO data and generate DOM for datatable
 </script>
 </html>

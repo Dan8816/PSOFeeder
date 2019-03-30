@@ -1,0 +1,370 @@
+NUMBER,NAME,DESKV,TYPE,INSTALL_DATE,FEET,MILES,OPCO,EAS_NUM,STATUS,OWNER,OBJECTID
+102,Hosston - North Benton,69 kV,Line,1976/12/31,145848,27.623,Southwestern Electric Power (LA),TLN194:00102,In service,AEP - SEP non-TX,289806
+104,Red Point - Bellevue,69 kV,Line,1900/01/01,46774,8.859,Southwestern Electric Power (LA),TLN194:00104,In service,AEP - SEP non-TX,289854
+107,Logansport - Stonewall,138 kV,Line,1946/12/31,119697,22.670,Southwestern Electric Power (LA),TLN194:00107,In service,AEP - SEP non-TX,289870
+108,Logansport - Stanley REA,69 kV,Line,1946/12/31,51488,9.751,Southwestern Electric Power (LA),TLN194:00108,In service,AEP - SEP non-TX,370131
+109,Linwood - Southwest Shreveport,138 kV,Line,1980/12/31,48719,9.227,Southwestern Electric Power (LA),TLN194:00109,In service,AEP - SEP non-TX,289918
+110,Arsenal Hill - Fort Humbug ,138 kV,Line,2009/12/31,17700,3.352,Southwestern Electric Power (LA),TLN194:00110,In service,AEP - SEP non-TX,298830
+111,Belcher - Hosston,69 kV,Line,1900/01/01,51681,9.788,Southwestern Electric Power (LA),TLN194:00111,In service,AEP - SEP non-TX,298350
+112,Center - Logansport (LA),138 kV,Line,1945/12/31,3159,0.598,Southwestern Electric Power (LA),TLN194:00112,In service,AEP - SEP non-TX,306366
+114,Arsenal Hill - Brooks Street,69 kV,Line,1965/12/31,9280,1.758,Southwestern Electric Power (LA),TLN194:00114,In service,AEP - SEP non-TX,299758
+115,Arsenal Hill - Shed Road,69 kV,Line,1948/12/31,3,0.001,Southwestern Electric Power (LA),TLN194:00115,In service,AEP - SEP non-TX,290158
+116,Brownlee Road - Minden Road,69 kV,Line,1962/12/31,23517,4.454,Southwestern Electric Power (LA),TLN194:00116,In service,AEP - SEP non-TX,298862
+117,Hosston - Superior (CKT #2),69 kV,Line,1963/12/31,56269,10.657,Southwestern Electric Power (LA),TLN194:00117,In service,AEP - SEP non-TX,299262
+118,Ellerbe Road - Lucas,69 kV,Line,1952/12/31,16815,3.185,Southwestern Electric Power (LA),TLN194:00118,In service,AEP - SEP non-TX,298526
+119,Red Point - Whitehurst,138 kV,Line,1954/12/31,35955,6.810,Southwestern Electric Power (LA),TLN194:00119,In service,AEP - SEP non-TX,290254
+121,Blanchard - Lieberman,69 kV,Line,1960/12/31,36683,6.947,Southwestern Electric Power (LA),TLN194:00121,In service,AEP - SEP non-TX,290334
+122,Logansport - Rock Hill (LA),138 kV,Line,1948/12/31,22019,4.170,Southwestern Electric Power (LA),TLN194:00122,In service,AEP - SEP non-TX,306382
+124,Calumet - Red Point,69 kV,Line,1970/12/31,22815,4.321,Southwestern Electric Power (LA),TLN194:00124,In service,AEP - SEP non-TX,300558
+125,Flournoy - Hardy Street,69 kV,Line,1970/12/31,53790,10.187,Southwestern Electric Power (LA),TLN194:00125,In service,AEP - SEP non-TX,298766
+126,IPC Jefferson - Lieberman (LA),138 kV,Line,1900/01/01,38615,7.314,Southwestern Electric Power (LA),TLN194:00126,In service,AEP - SEP non-TX,305838
+127,Arsenal Hill - Longwood,138 kV,Line,1990/12/31,86758,16.431,Southwestern Electric Power (LA),TLN194:00127,In service,AEP - SEP non-TX,298398
+128,Arsenal Hill - Lieberman,138 kV,Line,1925/12/31,112902,21.383,Southwestern Electric Power (LA),TLN194:00128,In service,AEP - SEP non-TX,290446
+129,Rock Hill - South Shreveport (LA),138 kV,Line,1953/12/31,115268,21.831,Southwestern Electric Power (LA),TLN194:00129,In service,AEP - SEP non-TX,298542
+130,Flournoy - General Motors,138 kV,Line,1956/12/31,8323,1.576,Southwestern Electric Power (LA),TLN194:00130,In service,AEP - SEP non-TX,290494
+131,South Shreveport - Wallace Lake,138 kV,Line,1962/12/31,59257,11.223,Southwestern Electric Power (LA),TLN194:00131,In service,AEP - SEP non-TX,290574
+132,Lieberman - Red Point,138 kV,Line,1967/12/31,176420,33.413,Southwestern Electric Power (LA),TLN194:00132,In service,AEP - SEP non-TX,290606
+133,Dolet Hills - S.W. Shreveport,345 kV,Line,1981/12/31,183976,34.844,Southwestern Electric Power (LA),TLN194:00133,In service,AEP - SEP non-TX,298382
+134,Diana - Southwest Shreveport (LA),345 kV,Line,1973/12/31,17133,3.245,Southwestern Electric Power (LA),TLN194:00134,In service,AEP - SEP non-TX,305646
+135,Longwood - El Dorado (AP&L),345 kV,Line,1965/12/31,200607,37.994,Southwestern Electric Power (LA),TLN194:00135,In service,AEP - SEP non-TX,298494
+142,Abbott Tee - Waldron,69 kV,Line,1959/12/31,74742,14.156,Southwestern Electric Power (AR),TLN194:00142,In service,AEP - SEP non-TX,299374
+149,Flint Creek - Brookline,345 kV,Line,1984/12/31,18,0.003,Southwestern Electric Power (AR),TLN194:00149,In service,AEP - SEP non-TX,299166
+150,Sugar Hill Tie - Richmond/Thirty Ninth Street,69 kV,Line,1900/01/01,248,0.047,Southwestern Electric Power (AR),TLN194:00150,In service,AEP - SEP non-TX,300430
+151,Texarkana Plant - Bloomburg,69 kV,Line,1900/01/01,104917,19.871,Southwestern Electric Power (TX,TLN194:00151,In service,AEP - SEP TX,298334
+152,DeQueen - Mena,69 kV,Line,1948/12/31,220296,41.723,Southwestern Electric Power (AR),TLN194:00152,In service,AEP - SEP non-TX,298094
+153,Nashville - Okay,69 kV,Line,1944/12/31,75090,14.222,Southwestern Electric Power (AR),TLN194:00153,In service,AEP - SEP non-TX,290702
+155,Dequeen - Patterson,69 kV,Line,1927/12/31,197770,37.456,Southwestern Electric Power (AR),TLN194:00155,In service,AEP - SEP non-TX,298142
+156,Excelsior - Midland,69 kV,Line,1930/12/31,47139,8.928,Southwestern Electric Power (AR),TLN194:00156,In service,AEP - SEP non-TX,299390
+159,Craig Junction - DeQueen (AR),138 kV,Line,1971/12/31,43509,8.240,Southwestern Electric Power (AR),TLN194:00159,In service,AEP - SEP non-TX,298126
+160,South Dierks - Dierks,69 kV,Line,1970/12/31,9633,1.824,Southwestern Electric Power (AR),TLN194:0160,In service,AEP - SEP non-TX,299086
+162,Booneville - Branch(OG&E),69 kV,Line,1962/12/31,64545,12.224,Southwestern Electric Power (AR),TLN194:00162,In service,AEP - SEP non-TX,299454
+164,Greenland - Prairie Grove,69 kV,Line,1962/12/31,45148,8.551,Southwestern Electric Power (AR),TLN194:00164,In service,AEP - SEP non-TX,291086
+165,Bann - Texarkana Plant (retire in 2001),69 kV,Line,1951/12/31,1254,0.238,Southwestern Electric Power (TX,TLN194:00227,In service,AEP - SEP TX,292446
+167,Dierks - Mena,69 kV,Line,1970/12/31,202524,38.357,Southwestern Electric Power (AR),TLN194:00167,In service,AEP - SEP non-TX,291118
+168,Patterson - Nekoosa - Edwards,69 kV,Line,1966/12/31,25118,4.757,Southwestern Electric Power (AR),TLN194:00168,In service,AEP - SEP non-TX,326190
+169,East Rogers - North Rogers,69 kV,Line,1978/12/31,6795,1.287,Southwestern Electric Power (AR),TLN194:00169,In service,AEP - SEP non-TX,291166
+172,Siloam Springs - West Siloam Springs (GRDA),161 kV,Line,1949/12/31,10847,2.054,Southwestern Electric Power (AR),TLN194:00172,In service,AEP - SEP non-TX,291198
+175,Chambers Spring - Clarksville (AR),345 kV,Line,1998/12/31,47935,9.079,Southwestern Electric Power (AR),TLN194:00175,In service,AEP - SEP non-TX,291230
+176,Fort Smith (OG&E) - North Huntington,161 kV,Line,1977/12/31,69615,13.185,Southwestern Electric Power (AR),TLN194:00176,In service,AEP - SEP non-TX,299470
+177,Dyess - Flint Creek,161 kV,Line,1974/12/31,123148,23.323,Southwestern Electric Power (AR),TLN194:00177,In service,AEP - SEP non-TX,291246
+178,Flint Creek - Siloam Springs,161 kV,Line,1974/12/31,37574,7.116,Southwestern Electric Power (AR),TLN194:00178,In service,AEP - SEP non-TX,291262
+179,Chambers Spring - Flint Creek ,161 kV,Line,1975/12/31,75835,14.363,Southwestern Electric Power (AR),TLN194:00179,In service,AEP - SEP non-TX,299150
+180,East Centerton - East Rogers,161 kV,Line,1990/12/31,49311,9.339,Southwestern Electric Power (AR),TLN194:00180,In service,AEP - SEP non-TX,291294
+181,Northwest Texarkana - Patterson (AR),138 kV,Line,1941/12/31,43863,8.307,Southwestern Electric Power (AR),TLN194:00181,In service,AEP - SEP non-TX,291326
+181,Northwest Texarkana - Patterson (TX),138 kV,Line,1941/12/31,38768,7.342,Southwestern Electric Power (TX,TLN194:00181,In service,AEP - SEP TX,305918
+182,Craig Junction - Patterson (AR),138 kV,Line,1940/12/31,143392,27.158,Southwestern Electric Power (AR),TLN194:00182,In service,AEP - SEP non-TX,298110
+183,North New Boston - Patterson (AR),138 kV,Line,1957/12/31,89821,17.012,Southwestern Electric Power (AR),TLN194:00183,In service,AEP - SEP non-TX,291358
+184,Patterson - South Dierks,138 kV,Line,1979/12/31,171590,32.498,Southwestern Electric Power (AR),TLN194:00184,In service,AEP - SEP non-TX,291374
+187,Beaver Dam (SPA) - Eureka Springs,161 kV,Line,1900/01/01,37854,7.169,non AEP,TLN194:00187,In service,other,299534
+187,Beaver Dam (SPA) - Eureka Springs,161 kV,Line,1900/01/01,37854,7.169,Southwestern Electric Power (AR),TLN194:00187,In service,AEP - SEP non-TX,601844
+188,Eureka Springs - Harrison (Entergy),161 kV,Line,1967/12/31,28743,5.444,Southwestern Electric Power (AR),TLN194:00188,In service,AEP - SEP non-TX,299550
+189,Chambers Spring - Dyess,161 kV,Line,1958/12/31,18,0.003,Southwestern Electric Power (AR),TLN194:00189,In service,AEP - SEP non-TX,291390
+190,Dyess - Hyland,161 kV,Line,1969/12/31,15,0.003,Southwestern Electric Power (AR),TLN194:00190,In service,AEP - SEP non-TX,299646
+198,North Mineola - Canton Tap (RCEC),138 kV,Line,1925/12/31,80064,15.164,Southwestern Electric Power (TX,TLN194:00198,In service,AEP - SEP TX,299006
+199,Welsh HVDC - Monticello,345 kV,Line,1993/12/31,90394,17.120,Southwestern Electric Power (TX,TLN194:00199,In service,AEP - SEP TX,297966
+199,Welsh - Welsh HVDC,345 kV,Line,1993/12/31,2462,0.466,Southwestern Electric Power (TX,TLN194:00199,In service,AEP - SEP TX,440885
+200,Center - Carthage T,138 kV,Line,1990/12/31,58534,11.086,Southwestern Electric Power (TX,TLN194:00200,In service,AEP - SEP TX,291422
+201,Atlanta - Linden,69 kV,Line,1984/12/31,71103,13.466,Southwestern Electric Power (TX,TLN194:00201,In service,AEP - SEP TX,297982
+202,Beckville - Louisiana Pacific,69 kV,Line,1977/12/31,35122,6.652,Southwestern Electric Power (TX,TLN194:00202,In service,AEP - SEP TX,370132
+203,Atlanta - Bloomburg (TX),69 kV,Line,1987/12/31,40864,7.739,Southwestern Electric Power (TX,TLN194:00203,In service,AEP - SEP TX,291502
+204,Center - Logansport (TX),138 kV,Line,1945/12/31,85865,16.262,Southwestern Electric Power (TX,TLN194:00204,In service,AEP - SEP TX,289998
+205,Woodlawn - Karnack Sw,69 kV,Line,1941/12/31,50820,9.625,Southwestern Electric Power (TX,TLN194:00205,In service,AEP - SEP TX,290302
+206,Gilmer - Perdue,69 kV,Line,1990/12/31,60821,11.519,Southwestern Electric Power (TX,TLN194:00206,In service,AEP - SEP TX,291550
+207,Clarksville - Sabine,69 kV,Line,1946/12/31,41855,7.927,Southwestern Electric Power (TX,TLN194:00207,In service,AEP - SEP TX,291566
+208,Clarksville - Greggton,69 kV,Line,1968/12/31,28730,5.441,Southwestern Electric Power (TX,TLN194:00208,In service,AEP - SEP TX,291614
+209,Air Products Tap (W),69 kV,Tap,1972/12/31,1292,0.245,Southwestern Electric Power (TX,TLN194:00209,In service,AEP - SEP TX,429362
+210,Kilgore - Overton,69 kV,Line,1900/01/01,65926,12.486,Southwestern Electric Power (TX,TLN194:00210,In service,AEP - SEP TX,291710
+211,Clarksville - Perdue,69 kV,Line,1962/12/31,38406,7.274,Southwestern Electric Power (TX,TLN194:00211,In service,AEP - SEP TX,299358
+212,Adora Tap,69 kV,Tap,1929/12/31,4566,0.865,Southwestern Electric Power (TX,TLN194:00212,In service,AEP - SEP TX,291774
+213,Bann - New Boston,69 kV,Line,1973/12/31,82772,15.677,Southwestern Electric Power (TX,TLN194:00213,In service,AEP - SEP TX,291902
+214,Grand Saline - Mineola,69 kV,Line,1900/01/01,36271,6.870,Southwestern Electric Power (TX,TLN194:0214A,In service,AEP - SEP TX,292062
+215,Beckville - Poynter,69 kV,Line,1900/01/01,120090,22.744,Southwestern Electric Power (TX,TLN194:00215,In service,AEP - SEP TX,292094
+216,Air Products Tap (E),69 kV,Tap,1972/12/31,641,0.121,Southwestern Electric Power (TX,TLN194:00216,In service,AEP - SEP TX,429361
+217,Evenside - Sawmill,69 kV,Line,1971/12/31,78995,14.961,Southwestern Electric Power (TX,TLN194:00217,In service,AEP - SEP TX,299966
+218,Gilmer - Pittsburg,69 kV,Line,1953/12/31,118461,22.436,Southwestern Electric Power (TX,TLN194:00218,In service,AEP - SEP TX,299710
+219,Lake Lamond - Southeast Longview,69 kV,Line,1956/12/31,41791,7.915,Southwestern Electric Power (TX,TLN194:00219,In service,AEP - SEP TX,299342
+220,Lone Star South - Pittsburg,138 kV,Line,1953/12/31,89473,16.946,Southwestern Electric Power (TX,TLN194:00220,In service,AEP - SEP TX,292350
+221,Carthage - Rock Hill,138 kV,Line,2014/06/12,60319,11.424,Southwestern Electric Power (TX,TLN194:00221,In service,AEP - SEP TX,292366
+222,Lake Lamond - Longview Heights,69 kV,Line,1963/12/31,37846,7.168,Southwestern Electric Power (TX,TLN194:00222,In service,AEP - SEP TX,292382
+223,Taylor Street - Bann,69 kV,Line,1960/12/31,50386,9.543,Southwestern Electric Power (TX,TLN194:00223,In service,AEP - SEP TX,291918
+224,Winfield - Mount Vernon,69 kV,Line,1963/12/31,39611,7.502,Southwestern Electric Power (TX,TLN194:00224,In service,AEP - SEP TX,299854
+225,Waskom - Karnack Sw.,69 kV,Line,1963/12/31,92039,17.432,Southwestern Electric Power (TX,TLN194:00225,In service,AEP - SEP TX,300782
+226,Knox Lee - Southeast Longview,69 kV,Line,1964/12/31,31236,5.916,Southwestern Electric Power (TX,TLN194:00226,In service,AEP - SEP TX,300094
+227,Bann - Southeast Texarkana (TX),138 kV,Line,1965/12/31,60231,11.407,Southwestern Electric Power (TX,TLN194:00227,In service,AEP - SEP TX,298078
+227,Bann - Southeast Texarkana (AR),138 kV,Line,1965/12/31,2205,0.418,Southwestern Electric Power (TX,TLN194:00227,In service,AEP - SEP TX,306270
+228,Bann - North New Boston,138 kV,Line,1964/12/31,98212,18.601,Southwestern Electric Power (TX,TLN194:00228,In service,AEP - SEP TX,292462
+229,Ferndale Lake Tap,69 kV,Tap,1967/12/31,15740,2.981,Southwestern Electric Power (TX,TLN194:00229A,In service,AEP - SEP TX,292478
+230,Logansport - Rock Hill,138 kV,Line,1965/12/31,266156,50.408,Southwestern Electric Power (TX,TLN194:00230,In service,AEP - SEP TX,298558
+231,Evenside - Poynter,69 kV,Line,1967/12/31,19334,3.662,Southwestern Electric Power (TX,TLN194:00231,In service,AEP - SEP TX,292526
+232,International Paper Tap (TX),69 kV,Tap,1969/12/31,9808,1.858,Southwestern Electric Power (TX,TLN194:00232,In service,AEP - SEP TX,305662
+234,Buford - Naples,69 kV,Tap,1969/12/31,34029,6.445,Southwestern Electric Power (TX,TLN194:0234,In service,AEP - SEP TX,300414
+235,Northwest Texarkana - Sugar Hill (TX),138 kV,Line,1981/12/31,55877,10.583,Southwestern Electric Power (TX,TLN194:00235,In service,AEP - SEP TX,292558
+235,Northwest Texarkana - Sugar Hill (AR),138 kV,Line,1981/12/31,2176,0.412,Southwestern Electric Power (AR),TLN194:00235,In service,AEP - SEP non-TX,306286
+236,Perdue - North Mineola,138 kV,Line,1974/12/31,166112,31.461,Southwestern Electric Power (TX,TLN194:0236,In service,AEP - SEP TX,299038
+237,Harrison Road - Knox Lee,138 kV,Line,1972/12/31,80642,15.273,Southwestern Electric Power (TX,TLN194:00237,In service,AEP - SEP TX,292574
+238,Diana - Perdue,138 kV,Line,2013/09/08,115474,21.870,Southwestern Electric Power (TX,TLN194:00238,In service,AEP - SEP TX,299054
+239,Knox Lee - Northwest Henderson,138 kV,Line,1969/12/31,99167,18.782,Southwestern Electric Power (TX,TLN194:00239,In service,AEP - SEP TX,292622
+240,Jefferson Switching - Wilkes,138 kV,Line,1968/12/31,57921,10.970,Southwestern Electric Power (TX,TLN194:00240,In service,AEP - SEP TX,299294
+241,Alumax Tap,138 kV,Tap,1983/12/31,2564,0.486,Southwestern Electric Power (TX,TLN194:00241,In service,AEP - SEP TX,444408
+242,IPC Jefferson - Jefferson Switching,138 kV,Line,2000/12/31,7633,1.446,Southwestern Electric Power (TX,TLN194:00242,In service,AEP - SEP TX,299278
+244,Longwood - Scottsville (TX),138 kV,Line,1966/12/31,69011,13.070,Southwestern Electric Power (TX,TLN194:00244,In service,AEP - SEP TX,306414
+245,Knox Lee - Rock Hill,138 kV,Line,1953/12/31,78997,14.961,Southwestern Electric Power (TX,TLN194:00245,In service,AEP - SEP TX,292862
+246,North New Boston - Patterson (TX),138 kV,Line,1957/12/31,34026,6.444,Southwestern Electric Power (TX,TLN194:00246,In service,AEP - SEP TX,305886
+247,West Atlanta - Wilkes,138 kV,Line,1959/12/31,168642,31.940,Southwestern Electric Power (TX,TLN194:00247,In service,AEP - SEP TX,292910
+248,Lone Star South - Wilkes,138 kV,Line,1962/12/31,58223,11.027,Southwestern Electric Power (TX,TLN194:00248,In service,AEP - SEP TX,292926
+249,Diana - Lone Star South,138 kV,Line,1950/12/31,66801,12.652,Southwestern Electric Power (TX,TLN194:00249,In service,AEP - SEP TX,292942
+250,Petty - Wilkes,138 kV,Line,1967/12/31,181539,34.382,Southwestern Electric Power (TX,TLN194:00250,In service,AEP - SEP TX,293006
+251,Chambers Spring - Clarksville (OK),345 kV,Line,1998/12/31,314124,59.493,Southwestern Electric Power (OK,TLN194:00251,In service,AEP - SEP non-TX,287758
+256,Craig Junction - Patterson (OK),138 kV,Line,1940/12/31,51543,9.762,Southwestern Electric Power (OK,TLN194:00256,In service,AEP - SEP non-TX,306302
+257,Craig Junction - DeQueen (OK),138 kV,Line,1971/12/31,53190,10.074,Southwestern Electric Power (OK,TLN194:00257,In service,AEP - SEP non-TX,306318
+270,Lydia - Northwest Texarkana,345 kV,Line,1975/12/31,169332,32.071,Southwestern Electric Power (TX,TLN194:00270,In service,AEP - SEP TX,293070
+271,Longwood - Wilkes (TX),345 kV,Line,1967/12/31,188595,35.719,Southwestern Electric Power (TX,TLN194:00271,In service,AEP - SEP TX,290638
+272,Diana - Southwest Shreveport (TX),345 kV,Line,1973/12/31,247540,46.883,Southwestern Electric Power (TX,TLN194:00272,In service,AEP - SEP TX,298734
+273,Crockett - Grimes (GSU),345 kV,Line,1978/12/31,143009,27.085,Southwestern Electric Power (TX,TLN194:00273,In service,AEP - SEP TX,299982
+275,Diana - Welsh (CKT#2),345 kV,Line,1980/12/31,126034,23.870,Southwestern Electric Power (TX,TLN194:00275,In service,AEP - SEP TX,300398
+277,Eastex Switching Station - Harrison Road,138 kV,Line,1900/01/01,51858,9.822,Southwestern Electric Power (TX,TLN194:00277,In service,AEP - SEP TX,293214
+278,Diana - Lake Lamond,138 kV,Line,1998/12/31,119476,22.628,Southwestern Electric Power (TX,TLN194:00278,In service,AEP - SEP TX,293230
+280,Craig Junction - Mena (AR),138 kV,Line,2000/12/31,148887,28.198,Southwestern Electric Power (AR),TLN194:00280,In service,AEP - SEP non-TX,297038
+282,East Rogers - Rogers,161 kV,Line,2002/12/31,27204,5.152,Southwestern Electric Power (AR),TLN194:00282,In service,AEP - SEP non-TX,306206
+283,Lowell - Tontitown,161 kV,Line,2002/12/31,64229,12.165,Southwestern Electric Power (AR),TLN194:00283,In service,AEP - SEP non-TX,302510
+285,Siloam Springs - Chambers Spring,161 kV,Line,2007/02/25,39943,7.565,Southwestern Electric Power (AR),TLN194:00285,In service,AEP - SEP non-TX,387743
+286,Pittsburg - Winnsboro 138kV,138 kV,Line,2005/12/31,112583,21.323,Southwestern Electric Power (TX,TLN194:00286,In service,AEP - SEP TX,360519
+287,Winnsboro - North Mineola,138 kV,Line,2006/12/31,130133,24.646,Southwestern Electric Power (TX,TLN194:00287,In service,AEP - SEP TX,379074
+288,Chambers Spring - Tontitown,345 kV,Line,2008/02/10,60917,11.537,Southwestern Electric Power (AR),TLN194:00288,In service,AEP - SEP non-TX,386767
+292,Port Robson Tap ,138 kV,Tap,2005/12/31,17297,3.276,Southwestern Electric Power (LA),TLN194:00292,In service,AEP - SEP non-TX,347087
+325,Turk - Sugar Hill,138 kV,Line,2009/12/31,115677,21.909,Southwestern Electric Power (AR),TLN194:00325,In service,AEP - SEP non-TX,419121
+326,Okay - Patterson,138 kV,Line,2009/12/31,102385,19.391,Southwestern Electric Power (AR),TLN194:00326,In service,AEP - SEP non-TX,291214
+327,Turk - NW Texarkana (AR),345 kV,Line,2011/12/31,117509,22.255,Southwestern Electric Power (AR),TLN194:00327,In service,AEP - SEP non-TX,461041
+328,Turk - NW Texarkana (TX),345 kV,Line,2011/12/31,39445,7.471,Southwestern Electric Power (TX,TLN194:00328,In service,AEP - SEP TX,461042
+329,Turk - Okay,138 kV,Line,2009/12/31,64160,12.151,Southwestern Electric Power (AR),TLN194:00329,In service,AEP - SEP non-TX,297950
+330,Turk - Southeast Texarkana ,138 kV,Line,2011/12/31,141953,26.885,Southwestern Electric Power (AR),TLN194:00330,In service,AEP - SEP non-TX,440570
+331,Caplis - McDade,138 kV,Line,2011/05/30,41069,7.778,Southwestern Electric Power (LA),TLN194:00331,In service,AEP - SEP non-TX,429681
+332,Wallace Lake - Finney Tap,138 kV,Line,2007/12/31,14000,2.652,Southwestern Electric Power (LA),TLN194:00332,In service,AEP - SEP non-TX,387087
+333,Caplis - Port Robson,138 kV,Line,2007/12/31,18922,3.584,Southwestern Electric Power (LA),TLN194:00333,In service,AEP - SEP non-TX,408226
+334,Haughton - McDade,138 kV,Line,2010/12/31,60424,11.444,Southwestern Electric Power (LA),TLN194:00334,In service,AEP - SEP non-TX,440561
+335,Haughton - Red Point,138 kV,Line,2012/05/30,15525,2.940,Southwestern Electric Power (LA),TLN194:00335,In service,AEP - SEP non-TX,444081
+336,Longwood - Scottsville (LA),138 kV,Line,1966/12/31,16454,3.116,Southwestern Electric Power (LA),TLN194:00336,In service,AEP - SEP non-TX,292830
+337,North Magazine - Danville (Entergy),161 kV,Line,2008/12/31,137263,25.997,Southwestern Electric Power (AR),TLN194:00337,In service,AEP - SEP non-TX,405007
+339,Bean Loop,138 kV,Loop,2007/12/31,3847,0.729,Southwestern Electric Power (LA),TLN194:00339,In service,AEP - SEP non-TX,408543
+340,Van Asche - Dyess,161 kV,Line,2000/12/31,29522,5.591,Southwestern Electric Power (AR),TLN194:00340,In service,AEP - SEP non-TX,290750
+341,Fayetteville - South Fayetteville,161 kV,Line,1900/01/01,10466,1.982,Southwestern Electric Power (AR),TLN194:00341,In service,AEP - SEP non-TX,299598
+342,Fayetteville - Van Asche,161 kV,Line,2007/12/02,24220,4.587,Southwestern Electric Power (AR),TLN194:00342,In service,AEP - SEP non-TX,299614
+343,East Centerton - Shipe Road,161 kV,Line,2013/12/31,17682,3.349,Southwestern Electric Power (AR),TLN194:00343,In service,AEP - SEP non-TX,470002
+344,Flint Creek - Shipe Road,345 kV,Line,2013/05/21,76113,14.415,Southwestern Electric Power (AR),TLN194:00344,In service,AEP - SEP non-TX,499441
+345,Turk - Hope,138 kV,Line,2009/12/31,32056,6.071,Southwestern Electric Power (AR),TLN194:00345,In service,AEP - SEP non-TX,419442
+347,East Leesville - Hicks,69 kV,Line,1979/12/31,87734,16.616,Southwestern Electric Power (LA),TLN194:00347,In service,AEP - SEP non-TX,439601
+348,East Leesville - North Leesville,69 kV,Line,1979/12/31,17290,3.275,Southwestern Electric Power (LA),TLN194:00348,In service,AEP - SEP non-TX,439284
+349,Many - Belmont,69 kV,Line,1984/12/31,55730,10.555,Southwestern Electric Power (LA),TLN194:00349,In service,AEP - SEP non-TX,438324
+350,Many - Negreet,69 kV,Line,1984/12/31,67512,12.786,Southwestern Electric Power (LA),TLN194:00350,In service,AEP - SEP non-TX,439281
+351,Noble - Mount Zion,69 kV,Line,1984/12/31,64572,12.230,Southwestern Electric Power (LA),TLN194:00351,In service,AEP - SEP non-TX,438325
+352,North Leesville - Hornbeck,69 kV,Line,1979/12/31,69120,13.091,Southwestern Electric Power (LA),TLN194:00352,In service,AEP - SEP non-TX,439283
+353,Belmont - Marthaville,69 kV,Line,1986/12/31,49338,9.344,Southwestern Electric Power (LA),TLN194:00353,In service,AEP - SEP non-TX,438322
+354,Many - Mt.Zion,69 kV,Line,1984/12/31,160,0.030,Southwestern Electric Power (LA),TLN194:00354,In service,AEP - SEP non-TX,439282
+355,Montgomery - Verda,69 kV,Line,1971/12/31,17223,3.262,Southwestern Electric Power (LA),TLN194:00355,In service,AEP - SEP non-TX,439921
+357,Jeld Wen - CLECO,115 kV,Line,2006/12/31,3369,0.638,Southwestern Electric Power (LA),TLN194:00357,In service,AEP - SEP non-TX,440244
+358,Marthaville - Robeline,69 kV,Line,2012/02/29,43989,8.331,Southwestern Electric Power (LA),TLN194:00358,In service,AEP - SEP non-TX,453041
+359,Robson Road (POD) - Kingston,69 kV,Line,1900/01/01,72233,13.681,Southwestern Electric Power (LA),TLN194:00359,In service,AEP - SEP non-TX,438321
+364,Port Robson - Benteler #1,138 kV,Line,2014/01/12,21634,4.097,Southwestern Electric Power (LA),TLN194:00364,In service,AEP - SEP non-TX,505846
+365,Port Robson - Benteler #2,138 kV,Line,2014/06/09,16745,3.171,Southwestern Electric Power (LA),TLN194:00365,In service,AEP - SEP non-TX,523762
+368,Fern Street - Pierremont 138kV,138 kV,Line,2014/09/07,5235,0.991,Southwestern Electric Power (LA),TLN194:00368,In service,AEP - SEP non-TX,523441
+369,Midland - North Huntington,161 kV,Line,2014/12/14,25145,4.762,Southwestern Electric Power (AR),TLN194:00369,In service,AEP - SEP non-TX,609857
+370,Midland - LeFlore County (PSO) 161kV,161 kV,Line,2014/07/07,36871,6.983,Southwestern Electric Power (LA),TLN194:00370,In service,AEP - SEP non-TX,526641
+373,Evenside - Northwest Henderson,138 kV,Line,1970/12/31,33798,6.401,Southwestern Electric Power (TX,TLN194:00373,In service,AEP - SEP TX,292542
+389,Greenland - VBI North (AECC),161 kV,Line,2017/09/17,62863,11.906,Southwestern Electric Power (AR),TLN194:00389,In service,AEP - SEP non-TX,668721
+0241A,Bann - IPC Domino,138 kV,Line,1941/12/31,60363,11.432,Southwestern Electric Power (TX,TLN194:0241A,In service,AEP - SEP TX,298302
+104A,Dogwood Tap,69 kV,Tap,1900/01/01,18372,3.480,Southwestern Electric Power (LA),TLN194:0104A,In service,AEP - SEP non-TX,289838
+104B,Cities Service Tap,69 kV,Tap,1900/01/01,11688,2.214,Southwestern Electric Power (LA),TLN194:0104B,In service,AEP - SEP non-TX,300366
+107A,Stonewall Tap,138 kV,Tap,1946/12/31,42979,8.140,Southwestern Electric Power (LA),TLN194:0107A,In service,AEP - SEP non-TX,300110
+110A,Arsenal Hill - Linwood,138 kV,Line,1976/12/31,26689,5.055,Southwestern Electric Power (LA),TLN194:0110A,In service,AEP - SEP non-TX,289950
+110B,Fort Humbug - South Shreveport,138 kV,Line,1975/12/31,55555,10.522,Southwestern Electric Power (LA),TLN194:0110B,In service,AEP - SEP non-TX,289966
+110C,Linwood - South Shreveport,138 kV,Line,1953/12/31,14156,2.681,Southwestern Electric Power (LA),TLN194:0110C,In service,AEP - SEP non-TX,289982
+111A,Hosston - Bloomburg (LA),69 kV,Line,1900/01/01,62078,11.757,Southwestern Electric Power (LA),TLN194:0111A,In service,AEP - SEP non-TX,298318
+112A,Midway - Summer Grove,69 kV,Line,1941/12/31,40938,7.753,Southwestern Electric Power (LA),TLN194:0112A,In service,AEP - SEP non-TX,298814
+112B,Seventieth Street Tap,69 kV,Tap,1956/12/31,23536,4.458,Southwestern Electric Power (LA),TLN194:0112B,In service,AEP - SEP non-TX,290030
+113B,Jefferson - Superior (LA),69 kV,Line,1927/12/31,54016,10.230,Southwestern Electric Power (LA),TLN194:0113B,In service,AEP - SEP non-TX,305710
+114A,Arsenal Hill - North Market,138 kV,Line,1959/12/31,13841,2.621,Southwestern Electric Power (LA),TLN194:0114A,In service,AEP - SEP non-TX,406622
+114B,Arsenal Hill - Waterworks,138 kV,Line,1941/12/31,13522,2.561,Southwestern Electric Power (LA),TLN194:0114B,In service,AEP - SEP non-TX,407902
+114D,Broadmoor - Pierremont,69 kV,Line,1958/12/31,10755,2.037,Southwestern Electric Power (LA),TLN194:0114D,In service,AEP - SEP non-TX,290126
+114E,Brooks Street - Edwards Street,138 kV,Line,2017/09/17,4330,0.820,Southwestern Electric Power (LA),TLN194:00376,In service,AEP - SEP non-TX,299742
+114F,Edwards Street - Fort Humbug,69 kV,Line,1948/12/31,5066,0.959,Southwestern Electric Power (LA),TLN194:0114F,In service,AEP - SEP non-TX,299726
+114G,Ellerbe Road - Fern Street,69 kV,Line,1950/12/31,12448,2.358,Southwestern Electric Power (LA),TLN194:0114G,In service,AEP - SEP non-TX,298894
+114J,Fern Street - Pierremont,69 kV,Line,1950/12/31,1434,0.272,Southwestern Electric Power (LA),TLN194:0114J,In service,AEP - SEP non-TX,298910
+114K,Forbing Road Tap,69 kV,Tap,1963/12/31,822,0.156,Southwestern Electric Power (LA),TLN194:0114K,In service,AEP - SEP non-TX,290142
+114L,Hardy Street - Midway,69 kV,Line,1941/12/31,6167,1.168,Southwestern Electric Power (LA),TLN194:0114L,In service,AEP - SEP non-TX,298798
+114M,Hardy Street - Waterworks,138 kV,Line,2015/06/24,8675,1.643,Southwestern Electric Power (LA),TLN194:0114M,In service,AEP - SEP non-TX,298782
+115A,Minden Road - Shed Road,69 kV,Line,1951/12/31,9232,1.749,Southwestern Electric Power (LA),TLN194:0115A,In service,AEP - SEP non-TX,290174
+117A,Lieberman - Superior,69 kV,Line,1951/12/31,38731,7.335,Southwestern Electric Power (LA),TLN194:0117A,In service,AEP - SEP non-TX,290206
+118A,Finney Tap,69 kV,Tap,1900/01/01,2095,0.397,Southwestern Electric Power (LA),TLN194:0118A,In service,AEP - SEP non-TX,290222
+118B,Lucas - Wallace Lake,69 kV,Line,1952/12/31,27596,5.227,Southwestern Electric Power (LA),TLN194:0118B,In service,AEP - SEP non-TX,290238
+119A,Trichel Street - Whitehurst,138 kV,Line,1951/12/31,23852,4.517,Southwestern Electric Power (LA),TLN194:0119A,In service,AEP - SEP non-TX,298846
+119B,Trichel Tap - Trichel,138 kV,Tap,1971/12/31,9860,1.867,Southwestern Electric Power (LA),TLN194:0119B,In service,AEP - SEP non-TX,290270
+120A,Flournoy - Summer Grove,69 kV,Line,1958/12/31,49256,9.329,Southwestern Electric Power (LA),TLN194:0120A,In service,AEP - SEP non-TX,290286
+120B,Flournoy - Waskom (LA),69 kV,Line,1958/12/31,50047,9.479,Southwestern Electric Power (LA),TLN194:0120B,In service,AEP - SEP non-TX,300750
+120B,Flournoy - Waskom (TX),69 kV,Line,1958/12/31,962,0.182,Southwestern Electric Power (TX,TLN194:0120B,In service,AEP - SEP TX,306398
+121A,Blanchard - North Market,69 kV,Line,1960/12/31,67768,12.835,Southwestern Electric Power (LA),TLN194:0121A,In service,AEP - SEP non-TX,290350
+124A,Calumet - Getty Oil ,69 kV,Line,1970/12/31,25422,4.815,Southwestern Electric Power (LA),TLN194:0124A,In service,AEP - SEP non-TX,298446
+124B,J.D. Ward Tap,69 kV,Tap,1980/12/31,1987,0.376,Southwestern Electric Power (LA),TLN194:0124B,In service,AEP - SEP non-TX,300574
+127A,Lieberman - Longwood,138 kV,Line,1945/12/31,50996,9.658,Southwestern Electric Power (LA),TLN194:0127A,In service,AEP - SEP non-TX,290430
+129A,Southwest Shreveport Tap,138 kV,Tap,1972/12/31,12656,2.397,Southwestern Electric Power (LA),TLN194:0129A,In service,AEP - SEP non-TX,290478
+130A,Flournoy - Longwood,138 kV,Line,1956/12/31,64593,12.233,Southwestern Electric Power (LA),TLN194:0130A,In service,AEP - SEP non-TX,290510
+130B,General Motors - Southwest Shreveport,138 kV,Line,1956/12/31,23018,4.359,Southwestern Electric Power (LA),TLN194:0130B,In service,AEP - SEP non-TX,290526
+130C,South Shreveport - Western Electric,138 kV,Line,1954/12/31,28751,5.445,Southwestern Electric Power (LA),TLN194:0130C,In service,AEP - SEP non-TX,290542
+130D,Southwest Shreveport - Western Electric,138 kV,Line,1956/12/31,22063,4.179,Southwestern Electric Power (LA),TLN194:0130D,In service,AEP - SEP non-TX,290558
+131A,Wallace Lake - Mansfield (CLECO),138 kV,Line,1962/12/31,37928,7.183,Southwestern Electric Power (LA),TLN194:0131A,In service,AEP - SEP non-TX,290590
+134A,Longwood - Southwest Shreveport,345 kV,Line,1971/12/31,101241,19.174,Southwestern Electric Power (LA),TLN194:0134A,In service,AEP - SEP non-TX,290622
+135A,Longwood - Wilkes (LA),345 kV,Line,1967/12/31,15391,2.915,Southwestern Electric Power (LA),TLN194:0135A,In service,AEP - SEP non-TX,305870
+149A,Flint Creek - Switch Station (GRDA) (AR),345 kV,Line,1983/12/31,15156,2.870,Southwestern Electric Power (AR),TLN194:0149A,In service,AEP - SEP non-TX,299118
+151A,Hosston - Bloomburg (AR),69 kV,Line,1900/01/01,45602,8.637,Southwestern Electric Power (AR),TLN194:0151A,In service,AEP - SEP non-TX,305694
+151B,International Paper Tap (AR),69 kV,Tap,1969/12/31,283,0.054,Southwestern Electric Power (TX,TLN194:0151B,In service,AEP - SEP TX,300830
+151D,Texas Eastern Tap (TX),69 kV,Tap,1949/12/31,9793,1.855,Southwestern Electric Power (TX,TLN194:0151D,In service,AEP - SEP TX,300846
+151D,Texas Eastern Tap (AR),69 kV,Tap,1949/12/31,2707,0.513,Southwestern Electric Power (AR),TLN194:0151D,In service,AEP - SEP non-TX,306238
+152A,DeQueen - Nashville,69 kV,Line,1949/12/31,143526,27.183,Southwestern Electric Power (AR),TLN194:0152A,In service,AEP - SEP non-TX,298270
+152B,Murfreesboro Uptown Tap,69 kV,Line,1960/12/31,4159,0.788,Southwestern Electric Power (AR),TLN194:0152B,In service,AEP - SEP non-TX,290686
+152C,Murfreesboro West - Narrows Dam (SWPA),69 kV,Line,1949/12/31,35395,6.704,Southwestern Electric Power (AR),TLN194:0152C,In service,AEP - SEP non-TX,298190
+152D,Murfreesboro West - Nashville,69 kV,Line,1949/12/31,63257,11.981,Southwestern Electric Power (AR),TLN194:0152D,In service,AEP - SEP non-TX,298158
+154B,Dyess - Springdale North,69 kV,Line,1959/12/31,29287,5.547,Southwestern Electric Power (AR),TLN194:0154B,In service,AEP - SEP non-TX,299630
+154D,Dyess - Springdale South,69 kV,Line,1928/12/31,10684,2.024,Southwestern Electric Power (AR),TLN194:0154D,In service,AEP - SEP non-TX,290766
+154F,Greenland - South Fayetteville,69 kV,Line,1937/12/31,20859,3.951,Southwestern Electric Power (AR),TLN194:0154F,In service,AEP - SEP non-TX,299694
+154G,Lowell - Rogers,161 kV,Line,2003/12/31,24048,4.555,Southwestern Electric Power (AR),TLN194:0154G,In service,AEP - SEP non-TX,290798
+154H,Greenland - VBI North (AECC),69 kV,Line,1937/12/31,116220,22.011,Southwestern Electric Power (AR),TLN194:0154H,In service,AEP - SEP non-TX,299678
+154J,Sefor Tap,69 kV,Line,1963/12/31,12757,2.416,Southwestern Electric Power (AR),TLN194:0154J,In service,AEP - SEP non-TX,368223
+158A,Ashdown - Twelfth Street,69 kV,Line,1968/12/31,107458,20.352,Southwestern Electric Power (AR),TLN194:0158A,In service,AEP - SEP non-TX,297902
+158A1,Ashdown - Patterson Tap,69 kV,Line,1968/12/31,6383,1.209,Southwestern Electric Power (AR),TLN194:158A1,In service,AEP - SEP non-TX,297934
+158B,Cooper Tire Sub - Washington Street,69 kV,Line,1963/12/31,1707,0.323,Southwestern Electric Power (AR),TLN194:0158B,In service,AEP - SEP non-TX,426161
+158D,Sugar Hill East Tap,69 kV,Tap,1981/12/31,2367,0.448,Southwestern Electric Power (AR),TLN194:0158D,In service,AEP - SEP non-TX,290990
+158E,Texarkana Plant - Twelfth Street,69 kV,Line,1963/12/31,14786,2.800,Southwestern Electric Power (AR),TLN194:0158E,In service,AEP - SEP non-TX,297918
+161A,East Centerton - North Rogers,69 kV,Line,1965/12/31,51988,9.846,Southwestern Electric Power (AR),TLN194:0161A,In service,AEP - SEP non-TX,299662
+161B,North Rogers - Rogers,69 kV,Line,1965/12/31,3483,0.660,Southwestern Electric Power (AR),TLN194:0161B,In service,AEP - SEP non-TX,291038
+162A,Booneville - West Booneville,69 kV,Line,1962/12/31,14893,2.821,Southwestern Electric Power (AR),TLN194:0162A,In service,AEP - SEP non-TX,291054
+162B,North Huntington - West Booneville,161 kV,Line,1962/12/31,103241,19.553,Southwestern Electric Power (AR),TLN194:0162B,In service,AEP - SEP non-TX,291070
+162C,West Booneville - North Magazine,161 kV,Line,1963/12/31,72110,13.657,Southwestern Electric Power (AR),TLN194:0162C,In service,AEP - SEP non-TX,299422
+164A,Prairie Grove - Siloam Springs,69 kV,Line,1962/12/31,109317,20.704,Southwestern Electric Power (AR),TLN194:0164A,In service,AEP - SEP non-TX,291102
+167B,Dierks - West Murfreesboro  ,69 kV,Line,1965/12/31,103080,19.523,Southwestern Electric Power (AR),TLN194:0167B,In service,AEP - SEP non-TX,299070
+167C,U.S. Motors Tap,69 kV,Tap,1900/01/01,13549,2.566,Southwestern Electric Power (AR),TLN194:0167C,In service,AEP - SEP non-TX,448881
+171A,AECC Fulton Plant - Patmos (AP&L),115 kV,Line,1928/12/31,38978,7.382,Southwestern Electric Power (AR),TLN194:0171A,In service,AEP - SEP non-TX,299838
+179A,Chambers Spring - South Fayetteville,161 kV,Line,1975/12/31,85859,16.261,Southwestern Electric Power (AR),TLN194:0179A,In service,AEP - SEP non-TX,368226
+180A,East Centerton - Flint Creek,161 kV,Line,2008/12/31,100572,19.048,Southwestern Electric Power (AR),TLN194:0180A,In service,AEP - SEP non-TX,299182
+181A,Patterson - South Nashville,138 kV,Line,1941/12/31,133788,25.339,Southwestern Electric Power (AR),TLN194:0181A,In service,AEP - SEP non-TX,291342
+181B,South Nashville - South Murfreesboro AP&L,138 kV,Line,1942/12/31,95549,18.096,Southwestern Electric Power (AR),TLN194:0181B,In service,AEP - SEP non-TX,298174
+187A,Eureka Springs - Table Rock (SPA),161 kV,Line,1900/01/01,6777,1.284,Southwestern Electric Power (AR),TLN194:0187A,In service,AEP - SEP non-TX,300030
+189A,Dyess - East Rogers,161 kV,Line,1960/12/31,71027,13.452,Southwestern Electric Power (AR),TLN194:0189A,In service,AEP - SEP non-TX,291406
+189B,East Rogers - Beaver Dam (SPA),161 kV,Line,1960/12/31,30711,5.816,Southwestern Electric Power (AR),TLN194:0189B,In service,AEP - SEP non-TX,299502
+190A,Hyland - Southeast Fayetteville,161 kV,Line,1969/12/31,11315,2.143,Southwestern Electric Power (AR),TLN194:0190A,In service,AEP - SEP non-TX,299566
+190B,South Fayetteville - Southeast Fayetteville,161 kV,Line,1969/12/31,15927,3.016,Southwestern Electric Power (AR),TLN194:0190B,In service,AEP - SEP non-TX,299582
+201A,Hughes Springs - Linden,69 kV,Line,1969/12/31,83256,15.768,Southwestern Electric Power (TX,TLN194:0201A,In service,AEP - SEP TX,292190
+202A,Carthage - Louisiana Pacific,69 kV,Line,1977/12/31,12354,2.340,Southwestern Electric Power (TX,TLN194:0202A,In service,AEP - SEP TX,298606
+202B,Carthage - Murvaul Rec Tap,69 kV,Line,1948/12/31,13606,2.577,Southwestern Electric Power (TX,TLN194:0202B,In service,AEP - SEP TX,298622
+205A,Jefferson - North Marshall,69 kV,Line,1927/12/31,69037,13.075,Southwestern Electric Power (TX,TLN194:0205A,In service,AEP - SEP TX,298510
+205B,Jefferson - Superior (TX),69 kV,Line,1900/01/01,97640,18.493,Southwestern Electric Power (TX,TLN194:0205B,In service,AEP - SEP TX,298414
+205C,Marshall 138 - Marshall 69,69 kV,Line,1983/12/31,639,0.121,Southwestern Electric Power (TX,TLN194:0205C,In service,AEP - SEP TX,291534
+205D,Marshall 69 - North Marshall,69 kV,Line,1989/12/31,19257,3.647,Southwestern Electric Power (TX,TLN194:0205D,In service,AEP - SEP TX,298654
+206A,Perdue North - Clarksville,69 kV,Line,1948/12/31,37216,7.049,Southwestern Electric Power (TX,TLN194:0206A,In service,AEP - SEP TX,298942
+207A,Kilgore - Sabine,69 kV,Line,1946/12/31,33108,6.271,Southwestern Electric Power (TX,TLN194:0207A,In service,AEP - SEP TX,291582
+207B,Service Pipeline Tap,69 kV,Tap,1964/12/31,6018,1.140,Southwestern Electric Power (TX,TLN194:0207B,In service,AEP - SEP TX,435766
+208A,Greggton - Lake Lamond,138 kV,Line,1968/12/31,14473,2.741,Southwestern Electric Power (TX,TLN194:0208A,In service,AEP - SEP TX,298958
+208B,Lake Lamond - Longview,69 kV,Line,1968/12/31,18155,3.438,Southwestern Electric Power (TX,TLN194:0208B,In service,AEP - SEP TX,291630
+208C,Longview Heights - Hallsville,138 kV,Line,2017/07/31,34671,6.566,Southwestern Electric Power (TX,TLN194:00371,In service,AEP - SEP TX,298702
+208D,Longview Heights - Whitney 69,69 kV,Line,1963/12/31,22447,4.251,Southwestern Electric Power (TX,TLN194:0208D,In service,AEP - SEP TX,298718
+208E,Midvalley Longview Tap,69 kV,Tap,1954/12/31,15248,2.888,Southwestern Electric Power (TX,TLN194:0208E,In service,AEP - SEP TX,435765
+208F,Nettleton Texoma Tap,69 kV,Tap,1954/12/31,808,0.153,Southwestern Electric Power (TX,TLN194:0208F,In service,AEP - SEP TX,435764
+209A,Daingerfield - Mt Pleasant,69 kV,Line,1946/12/31,91740,17.375,Southwestern Electric Power (TX,TLN194:0209A,In service,AEP - SEP TX,298046
+209B,Daingerfield - Hughes Springs,69 kV,Line,1978/12/31,31878,6.038,Southwestern Electric Power (TX,TLN194:0209B,In service,AEP - SEP TX,298014
+210A,Kilgore - Whitney,69 kV,Line,1965/12/31,82662,15.656,Southwestern Electric Power (TX,TLN194:0210A,In service,AEP - SEP TX,291726
+210B,Longview - Whitney,69 kV,Line,1967/12/31,13878,2.628,Southwestern Electric Power (TX,TLN194:0210B,In service,AEP - SEP TX,291742
+211A,Hawkins - Mineola,69 kV,Line,1962/12/31,95211,18.032,Southwestern Electric Power (TX,TLN194:0211A,In service,AEP - SEP TX,291758
+211B,Hawkins - Perdue,69 kV,Line,1962/12/31,66275,12.552,Southwestern Electric Power (TX,TLN194:0211B,In service,AEP - SEP TX,298990
+212A,Mineola - North Mineola,69 kV,Line,1947/12/31,12412,2.351,Southwestern Electric Power (TX,TLN194:0212A,In service,AEP - SEP TX,291790
+212B,Mobile Texoma Tap,69 kV,Tap,1973/12/31,15683,2.970,Southwestern Electric Power (TX,TLN194:0212B,In service,AEP - SEP TX,291806
+212F,North Mineola - Quitman,69 kV,Line,1900/01/01,1102,0.209,Southwestern Electric Power (TX,TLN194:0212F,In service,AEP - SEP TX,451761
+212G,Petty - Pilgrims Pride,69 kV,Line,1978/12/31,8147,1.543,Southwestern Electric Power (TX,TLN194:0212G,In service,AEP - SEP TX,298254
+212H,Pilgrims Pride - Winfield,69 kV,Line,1929/12/31,42454,8.040,Southwestern Electric Power (TX,TLN194:0212H,In service,AEP - SEP TX,298222
+212J,Quitman - Winnsboro,69 kV,Line,1900/01/01,3141,0.595,Southwestern Electric Power (TX,TLN194:0212J,In service,AEP - SEP TX,379072
+212K,Winfield - Winnsboro,69 kV,Line,1929/12/31,139130,26.350,Southwestern Electric Power (TX,TLN194:0212K,In service,AEP - SEP TX,291886
+213A,Red Springs REA Tap (NEED TO DELETE),69 kV,Tap,1978/12/31,20,0.004,Southwestern Electric Power (TX,TLN999:99999,In service,AEP - SEP TX,300478
+213B,Bann - Thirty Ninth Street,69 kV,Line,1940/12/31,49522,9.379,Southwestern Electric Power (TX,TLN194:0213B,In service,AEP - SEP TX,291934
+213D,Cookville Tap,69 kV,Line,1967/12/31,9594,1.817,Southwestern Electric Power (TX,TLN194:0213D,In service,AEP - SEP TX,291950
+213E,Lone Star Ordinance Tap,69 kV,Tap,1940/12/31,5706,1.081,Southwestern Electric Power (TX,TLN194:0213E,In service,AEP - SEP TX,291966
+213F,Mount Pleasant - Dekalb,69 kV,Line,1948/12/31,179379,33.973,Southwestern Electric Power (TX,TLN194:0213F,In service,AEP - SEP TX,298206
+213G,New Boston - North New Boston,69 kV,Line,1978/12/31,7589,1.437,Southwestern Electric Power (TX,TLN194:0213G,In service,AEP - SEP TX,291982
+213H,Red River Arsenal Tap (Estimated),69 kV,Tap,1990/12/31,1942,0.368,Southwestern Electric Power (TX,TLN194:0213H,In service,AEP - SEP TX,291998
+213K,Sugar Hill West Tap,69 kV,Tap,1981/12/31,2846,0.539,Southwestern Electric Power (AR),TLN194:0213K,In service,AEP - SEP non-TX,292014
+213M,Taylor Street - Texarkana Plant (TX),69 kV,Line,1951/12/31,14353,2.718,Southwestern Electric Power (TX,TLN194:0213M,In service,AEP - SEP TX,292030
+213M,Taylor Street - Texarkana Plant (AR),69 kV,Line,1951/12/31,1823,0.345,Southwestern Electric Power (AR),TLN194:0213M,In service,AEP - SEP non-TX,306254
+213N,Taylor Street - Thirty Ninth Street,69 kV,Line,1951/12/31,12748,2.414,Southwestern Electric Power (TX,TLN194:0213N,In service,AEP - SEP TX,298926
+214B,Grand Saline - Quitman,69 kV,Line,1964/12/31,132684,25.130,Southwestern Electric Power (TX,TLN194:0214B,In service,AEP - SEP TX,292078
+215A,Beckville - Rock Hill,69 kV,Line,1900/01/01,21515,4.075,Southwestern Electric Power (TX,TLN194:0215A,In service,AEP - SEP TX,292110
+215C,Marshall 69 - Rock Hill,69 kV,Line,1993/12/31,86478,16.378,Southwestern Electric Power (TX,TLN194:0215C,In service,AEP - SEP TX,298638
+215D,Northwest Henderson - Poynter,138 kV,Line,2014/01/31,17620,3.337,Southwestern Electric Power (TX,TLN194:0215D,In service,AEP - SEP TX,292142
+215E,Northwest Henderson - Overton,138 kV,Line,1984/12/31,71621,13.565,Southwestern Electric Power (TX,TLN194:0215E,In service,AEP - SEP TX,298974
+215F,Overton - Turnertown,69 kV,Line,1984/12/31,44352,8.400,Southwestern Electric Power (TX,TLN194:0215F,In service,AEP - SEP TX,422005
+216A,Hughes Springs - Lone Star South,69 kV,Line,1954/12/31,43830,8.301,Southwestern Electric Power (TX,TLN194:0216A,In service,AEP - SEP TX,297998
+216B,Jenkins Rec Tap,69 kV,Tap,1967/12/31,37048,7.017,Southwestern Electric Power (TX,TLN194:0216B,In service,AEP - SEP TX,429366
+216C,Lone Star Power Plant - Lone Star South,69 kV,Line,1969/12/31,9922,1.879,Southwestern Electric Power (TX,TLN194:0216C,In service,AEP - SEP TX,292222
+216D,Lone Star Steel Mill Tap,69 kV,Tap,1967/12/31,11971,2.267,Southwestern Electric Power (TX,TLN194:0216D,In service,AEP - SEP TX,429365
+218A,Mount Pleasant - Petty,69 kV,Line,1952/12/31,11025,2.088,Southwestern Electric Power (TX,TLN194:0218A,In service,AEP - SEP TX,298062
+218B,Petty - Pittsburg,138 kV,Line,1925/12/31,48220,9.133,Southwestern Electric Power (TX,TLN194:0218B,In service,AEP - SEP TX,292286
+218C,Pittsburg Steel Tap,69 kV,Tap,1975/12/31,8795,1.666,Southwestern Electric Power (TX,TLN194:0218C,In service,AEP - SEP TX,292302
+219A,Air Liquide Tap,69 kV,Tap,1974/12/31,4052,0.768,Southwestern Electric Power (TX,TLN194:0219A,In service,AEP - SEP TX,300318
+219B,LeTourneau Tap,69 kV,Tap,1955/12/31,7604,1.440,Southwestern Electric Power (TX,TLN194:0219B,In service,AEP - SEP TX,300334
+219C,Southeast Longview - Whitney,69 kV,Line,1950/12/31,17038,3.227,Southwestern Electric Power (TX,TLN194:0219C,In service,AEP - SEP TX,292334
+225A,Karnack Switching Tap,69 kV,Tap,1941/12/31,8978,1.700,Southwestern Electric Power (TX,TLN194:0225A,In service,AEP - SEP TX,292414
+225B,Midvalley Pipeline Tap,69 kV,Tap,1974/12/31,23714,4.491,Southwestern Electric Power (TX,TLN194:0225B,In service,AEP - SEP TX,292430
+229A,Pittsburg - Winnsboro 69kV,69 kV,Line,1965/12/31,99983,18.936,Southwestern Electric Power (TX,TLN194:0229,In service,AEP - SEP TX,292494
+237A,Harrison Road - Perdue,138 kV,Line,1972/12/31,109840,20.803,Southwestern Electric Power (TX,TLN194:0237A,In service,AEP - SEP TX,292590
+241B,Bann - Northwest Texarkana,138 kV,Line,1941/12/31,17676,3.348,Southwestern Electric Power (TX,TLN194:0241B,In service,AEP - SEP TX,292654
+241D,IPC Domino - West Atlanta,138 kV,Line,1941/12/31,127303,24.110,Southwestern Electric Power (TX,TLN194:0241D,In service,AEP - SEP TX,298286
+241E,Jefferson Switching - Marshall 138,138 kV,Line,1941/12/31,89142,16.883,Southwestern Electric Power (TX,TLN194:0241E,In service,AEP - SEP TX,298686
+241F,Knox Lee - Overton,138 kV,Line,1941/12/31,126036,23.870,Southwestern Electric Power (TX,TLN194:0241F,In service,AEP - SEP TX,292702
+241G,Knox Lee - Pirkey,138 kV,Line,1941/12/31,72517,13.734,Southwestern Electric Power (TX,TLN194:0241G,In service,AEP - SEP TX,292718
+242A,IPC Jefferson - Lieberman (TX),138 kV,Line,1947/12/31,104811,19.851,Southwestern Electric Power (TX,TLN194:0242A,In service,AEP - SEP TX,290414
+243A1,Eastex Switching Station - North Texas Eastman #1,138 kV,Line,1978/12/31,6012,1.139,Southwestern Electric Power (TX,TLN194:243A1,In service,AEP - SEP TX,292734
+243A2,Eastex Switching Station - South Texas Eastman,138 kV,Line,1980/12/31,4853,0.919,Southwestern Electric Power (TX,TLN194:243A2,In service,AEP - SEP TX,292750
+243B,Eastex Switching Station - North Texas Eastman #2,138 kV,Line,1978/12/31,4716,0.893,Southwestern Electric Power (TX,TLN194:0243B,In service,AEP - SEP TX,292766
+243C,Eastex Switching Station - Whitney,138 kV,Line,1950/12/31,17835,3.378,Southwestern Electric Power (TX,TLN194:0243C,In service,AEP - SEP TX,292782
+243D,Knox Lee - South Texas Eastman,138 kV,Line,1950/12/31,34564,6.546,Southwestern Electric Power (TX,TLN194:0243D,In service,AEP - SEP TX,292798
+243E,Marshall 138 - Pirkey,138 kV,Line,1946/12/31,46491,8.805,Southwestern Electric Power (TX,TLN194:0243E,In service,AEP - SEP TX,298670
+243F,Pirkey - Whitney,138 kV,Line,1946/12/31,72032,13.642,Southwestern Electric Power (TX,TLN194:0243F,In service,AEP - SEP TX,292814
+244A,Pirkey - Scottsville,138 kV,Line,1941/12/31,97235,18.416,Southwestern Electric Power (TX,TLN194:0244A,In service,AEP - SEP TX,292846
+245A,Rock Hill - South Shreveport (TX),138 kV,Line,2014/11/16,128090,24.260,Southwestern Electric Power (TX,TLN194:0245A,In service,AEP - SEP TX,305854
+246A,North New Boston - Wilkes,138 kV,Line,1959/12/31,246355,46.658,Southwestern Electric Power (TX,TLN194:0246A,In service,AEP - SEP TX,292894
+249A,Diana - Pliler Road,138 kV,Line,1950/12/31,93190,17.650,Southwestern Electric Power (TX,TLN194:0249A,In service,AEP - SEP TX,292958
+249C,Pliler Road - Whitney,138 kV,Line,1950/12/31,43654,8.268,Southwestern Electric Power (TX,TLN194:0249C,In service,AEP - SEP TX,292990
+271A,Lydia - Valliant (SWEPCO),345 kV,Line,1970/12/31,119964,22.720,Southwestern Electric Power (TX,TLN194:0271A,In service,AEP - SEP TX,293086
+271B,Welsh - Wilkes,345 kV,Line,1970/12/31,162586,30.793,Southwestern Electric Power (TX,TLN194:0271B,In service,AEP - SEP TX,293102
+271C,Welsh - Lydia,345 kV,Line,1970/12/31,125937,23.852,Southwestern Electric Power (TX,TLN194:0271C,In service,AEP - SEP TX,298030
+272A,Diana - Welsh (CKT#1),345 kV,Line,1973/12/31,126033,23.870,Southwestern Electric Power (TX,TLN194:0272A,In service,AEP - SEP TX,298750
+273A,Crockett - Tenaska Rusk County,345 kV,Line,1978/12/31,355628,67.354,Southwestern Electric Power (TX,TLN194:0273A,In service,AEP - SEP TX,299310
+273B,Diana - Pirkey,345 kV,Line,1977/12/31,131300,24.867,Southwestern Electric Power (TX,TLN194:0273B,In service,AEP - SEP TX,293166
+273C,Pirkey - Tenaska Rusk County,345 kV,Line,1978/12/31,197232,37.355,Southwestern Electric Power (TX,TLN194:0273C,In service,AEP - SEP TX,299326
+274A,Northwest Texarkana - Welsh,345 kV,Line,1978/12/31,280971,53.214,Southwestern Electric Power (TX,TLN194:0274A,In service,AEP - SEP TX,293198
+280A,Craig Junction - Mena (OK),138 kV,Line,2000/12/31,94685,17.933,Southwestern Electric Power (OK,TLN194:0280A,In service,AEP - SEP non-TX,306334
+9999999,Greenland - VBI North (AECC),161 kV,Line,2018/06/18,49613,9.396,Southwestern Electric Power (AR),TLN194:00389,In service,AEP - SEP non-TX,675796
+9999999,North Mineola - Morton Tap (WCEC),138 kV,Line,2018/06/18,2331,0.441,Southwestern Electric Power (TX,TLN194:00198,In service,AEP - SEP TX,692401
+9999999,North Huntington - Waldron West,161 kV,Line,2017/09/17,97395,18.446,Southwestern Electric Power (AR),TLN194:00388,In service,AEP - SEP non-TX,669697
+9999999,Brownlee Road - North Market,138 kV,Line,2017/03/20,24868,4.710,Southwestern Electric Power (LA),TLN194:00405,In service,AEP - SEP non-TX,608241
+9999999,Hallsville - Marshall,138 kV,Line,2016/10/23,58891,11.154,Southwestern Electric Power (TX,TLN194:00372,In service,AEP - SEP TX,658802
+9999999,Broadmoor - Fort Humbug,138 kV,Line,2016/09/11,9238,1.750,Southwestern Electric Power (LA),TLN194:00408,In service,AEP - SEP non-TX,618177
+9999999,VALLIANT - NORTHWEST TEXARKANA,345 kV,Line,2016/04/12,230765,43.705,Southwestern Electric Power (TX,TLN194:90928,In service,AEP - SEP TX,626489
+9999999,Layfield Extension,500 kV,Extension,2016/04/05,0,0.000,Southwestern Electric Power (LA),TLN194:00367,In service,AEP - SEP non-TX,587443
+9999999,Blocker Tap,138 kV,Tap,2016/03/01,653,0.124,Southwestern Electric Power (TX,TLN194:00379,In service,AEP - SEP TX,578161
+9999999,Marshall 138 - Rock Hill,138 kV,Line,2015/11/19,11872,2.249,Southwestern Electric Power (TX,TLN194:00375,In service,AEP - SEP TX,575921
+9999999,Ellerbe Road - South Shreveport,138 kV,Line,2015/08/23,15922,3.016,Southwestern Electric Power (LA),TLN194:0114H,In service,AEP - SEP non-TX,675794
+9999999,Welsh Bus Tie #1,345 kV,Line,2015/05/30,1972,0.373,Southwestern Electric Power (TX,TLN194:00406,In service,AEP - SEP TX,603763
+9999999,Welsh Bus Tie #2,345 kV,Line,2015/05/30,2704,0.512,Southwestern Electric Power (TX,TLN194:00407,In service,AEP - SEP TX,603764
+9999999,Mt. Pleasant - West Mt. Pleasant,138 kV,Line,2014/11/30,16033,3.036,Southwestern Electric Power (TX,TLN194:00378,In service,AEP - SEP TX,573041
+9999999,Dekalb - New Boston,138 kV,Line,2014/09/07,71144,13.474,Southwestern Electric Power (TX,TLN194:00384,In service,AEP - SEP TX,606660
+9999999,Osburn Tap,161 kV,Tap,2013/05/31,2,0.000,Southwestern Electric Power (AR),TLN194:00360,In service,AEP - SEP non-TX,482161
+9999999,Turk GSU - Turk,138 kV,Line,2010/12/31,1995,0.378,Southwestern Electric Power (AR),TLN999:99999,In service,AEP - SEP non-TX,421047
+9999999,Turk Rat -Turk,138 kV,Line,2010/12/31,2299,0.435,Southwestern Electric Power (AR),TLN999:99999,In service,AEP - SEP non-TX,421361
+9999999,Pirkey - LeBrock,345 kV,Line,2002/12/31,32652,6.184,Southwestern Electric Power (TX,TLN194:00281,In service,AEP - SEP TX,299998
+9999999,Brookline - Flint Creek (AEC),345 kV,Line,1984/12/31,1,0.000,Arkansas Electric Co-op,TLN999:99999,In service,Arkansas Electric Co-op,305758
+9999999,Branch - North Magazine - VBI (OGE),161 kV,Line,1900/01/01,47473,8.991,non AEP,TLN999:99999,In service,other,299486
+9999999,Montgomery (Entergy Owned),69 kV,Line,1900/01/01,14124,2.675,non AEP,TLN999:99999,In service,other,440883
+9999999,Overton 138KV Bus Tie,138 kV,Bus tie,1900/01/01,151,0.029,Southwestern Electric Power (TX,SEP0070,In service,AEP - SEP TX,477048
+9999999,DeQueen Transformer Lead,138 kV,Bus tie,1900/01/01,356,0.067,Southwestern Electric Power (AR),SEP0033,In service,AEP - SEP non-TX,478005
+9999999,Atoka Bus Tie #1,138 kV,Bus tie,1900/01/01,171,0.032,Public Service of Oklahoma,TLN999:99999,In service,AEP - TNC,478014
+9999999,Atoka Bus Tie #2,138 kV,Bus tie,1900/01/01,170,0.032,Public Service of Oklahoma,PSO66839,In service,AEP - TNC,478015
+9999999,Diana Bus Tie #1,138 kV,Bus tie,1900/01/01,296,0.056,Southwestern Electric Power (TX,SEP0068,In service,AEP - SEP TX,478969
+9999999,Diana Bus Tie #2,138 kV,Bus tie,1900/01/01,318,0.060,Southwestern Electric Power (TX,SEP0068,In service,AEP - SEP TX,478970
+9999999,Wilkes Bus Tie,138 kV,Bus tie,1900/01/01,345,0.065,Southwestern Electric Power (TX,SEP077,In service,AEP - SEP TX,478972
+9999999,Mt. Olive - Hartburg (CLECO),500 kV,other,1900/01/01,0,0.000,CLECO,TLN999:99999,In service,other,587444
